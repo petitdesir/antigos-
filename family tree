@@ -1,0 +1,52 @@
+<center>
+<div class="avtree">
+<div class="avtree-tit">LOHNHÖFF</div><br>
+<i>Descendência Anastasia e Dimitri Lohnhöff</i>
+<div style="margin-left: 70px; margin-top: 10px; width: 80px; height: 30px; border-left: 2px solid #b0b0b0"></div>
+
+<div style="position: relative; float: left; width: 10px; height: 35px; border-top: 2px dashed #dcdcdc; border-left: 2px dashed #dcdcdc;"></div>
+
+<div class="avtree-bl"><b>Fatma Lohnhöff</b><br>(Mãe)</div>
+<div class="avtree-line1"></div><div class="avtree-line2"></div>
+
+<div class="avtree-bl"><b>Félix Lohnhöff</b><br>(pai)</div>
+<div style="position: relative; float: left; width: 80px; height: 20px; border-top: 2px solid #bdbdbd;"></div>
+
+<div class="avtree-bl" style="float: left; margin-top: -20px;"><b>Portia Lohnhöff</b><br>(Mãe)</div>
+<div class="avtree-line1s"></div><div class="avtree-line2s"></div>
+
+  <div class="avtree-bl"><b>Alexander Vör Siegel</b><br>(Pai)</div><br><br><br>
+<div class="avtree-line3s" style="margin-top: -15px"></div>
+
+<div class="avtree-bl" style="margin-top: -2px; padding-top: 3px;">Aliki Lohnhöff<br>(Primogênito)</div>
+<div class="avtree-line3s" style="margin-top: 3px; margin-left: 284px; height: 20px; width: 22px; border-bottom: 2px dashed #dcdcdc;"></div>
+
+<div class="avtree-bl" style="margin-top: 1px">Noah Vör Siegel<br>(Filho único)</div><br><br><br><br><br>
+
+<div class="avtree-bl"><a href="/index.php?showuser=12">Dorian Mormont</a><br>(Tio)</div>
+
+
+<br><br><br><br>
+</div>
+
+
+</center>
+
+<style type="text/css">
+.avtree {width: 620px; box-sizing: border-box;}
+.avtree-tit {width: 450px; padding: 5px 0px 7px 0px; font-family: roboto condensed; letter-spacing: -2px; font-size: 30px; background: -webkit-linear-gradient(#FFF, #000); -webkit-background-clip: text; -webkit-text-fill-color: transparent; line-height: 100%; text-transform: uppercase; box-shadow: 0px 3px 0px #000}
+.avtree i {font-family: verdana; font-size: 12px; color: #5e5e5e}
+.avtree-bl {background: #f6f6f6; position: relative; float: left; margin-top: -20px; width: 110px; height: 40px; font-family: verdana; font-size: 9px; padding: 3px 0px 0px 0px; box-shadow: -3px 3px 0px #000}
+.avtree-bl b {color: #000; text-transform: uppercase;}
+.avtree-bl a {color: #000; text-transform: uppercase; font-size: 9px; font-family: verdana}
+.avtree-line1 {position: relative; float: left; width: 20px; height: 52px; border-top: 2px solid #b0b0b0; border-right: 2px solid #b0b0b0;}
+.avtree-line2 {position: relative; float: left; width: 22px; height: 35px; border-top: 2px solid #b0b0b0;}
+.avtree-line1s {position: relative; float: left; width: 20px; height: 52px; border-top: 2px dashed #dcdcdc; border-right: 2px dashed #dcdcdc;}
+.avtree-line2s {position: relative; float: left; width: 22px; height: 35px; border-top: 2px dashed #dcdcdc;}
+.avtree-line3s {position: relative; float: left; width: 90px; height: 100px; border-left: 2px dashed #dcdcdc;}
+
+
+</style>
+<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700' rel='stylesheet' type='text/css'><link href="https://fonts.googleapis.com/css?family=Roboto:100" rel="stylesheet">
+
+
