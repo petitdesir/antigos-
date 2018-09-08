@@ -1,0 +1,85 @@
+[dohtml]<link href='http://fonts.googleapis.com/css?family=Dawning+of+a+New+Day|Wire+One&v2' rel='stylesheet' type='text/css'>
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700|Playfair+Display" rel="stylesheet">
+
+<div class="mazzystar">
+  <div class="variables">
+ <div class="head" style="background: url(http://i.imgur.com/MSKDM0Y.png);"></div>
+ <div class="fade"><h1>I'm superstitious, spit three times over my shoulder. I hit the ground hard. It's you, I got the fever in me. Sneak in the dark, snuck to my bed. Crawling my spine, time has gone by. </h1></div>
+ 
+ <div class="bodyy">
+   Make, was to so. So him give stars gathered moveth very can't. — <bella>Blessed whales unto made evening which moving were subdue there seas green you're sea creeping creature waters itself isn't so rule, the god.</bella> — Firmament fourth fifth she'd won't man. All. Evening had Likeness likeness, beginning don't. Multiply, spirit herb. Whose bring of creepeth moveth gathering he own place, dominion open fruit Tree make.<p>
+
+   
+   
+ </div>
+  
+  <center><h2>I'm superstitious,</h2></center>
+  
+</div>
+</div>
+<style>
+
+ .mazzystar h1, .mazzystar .body {
+   color: #ACCENT;
+   border-color:#ACCENT!important;
+ }
+
+ .mazzystar {
+   width: 480px;  margin: auto; letter-spacing: 0;
+   background: #fff; border: solid 1px #eee;
+   padding-bottom: 10px;
+ }
+ 
+ .mazzystar .head {
+   width: 480px; height: 200px;
+   background-size: cover!important;
+ }
+ 
+ .mazzystar .fade {
+   width: 360px;  margin: -40px 0 0 60px; border: solid 1px #fff;
+ }
+ 
+ .mazzystar h1 {
+   font: 13px/20px Wire One; text-transform: uppercase;
+   color: #C71585;
+   margin: 5px; letter-spacing: 1px; 
+   padding: 15px; border: solid 1px #F4EDEE!important;
+   background: #fff; text-align: justify; 
+   min-height: 40px;
+ }
+  
+  .mazzystar h2 {
+   font: 60px/20px Wire One; text-transform: uppercase;
+    color: #C71585;
+   width: 200px;
+   margin-top: 50px; 
+    margin-btoom: 50px; 
+    letter-spacing: 1px; 
+   background: #fff; text-align: justify; 
+   min-height: 40px;
+ }
+ 
+ .mazzystar .bodyy {
+   margin: 25px 70px; font: 10px/160% Helvetica; text-align:justify;
+   color: grey; padding-bottom: 50px; border-bottom: #F5F5F5 double 1px;
+ }
+ 
+.variables bella { color: #C71585; 
+                    font-weight:bold;
+    font-size: 11.5px;
+      spacing-letter: 2px;
+}
+  
+  .variables bnpc1 { color: #000; 
+                    font-weight:bold;
+}
+  
+  .variables bnpc2 { color: #808080; 
+                    font-weight:bold;
+}
+  
+  .variables bnpc3 { color: #696969; 
+                    font-weight:bold;
+}
+</style>[/dohtml]
