@@ -1,0 +1,29 @@
+[dohtml]
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<style type="text/css">
+#deehcxtx { width: 500px; height: 300px; position: relative; background-image: url(https://68.media.tumblr.com/be913cc3818a45581b3e0c7b6a041957/tumblr_n343kcEGJb1qd9ebro1_r1_500.png); overflow: hidden; border-top: 60px solid #ffffff; border-bottom: 60px solid #ffffff; }
+.deehtitle { font-weight: inherit; font-family: oswald; font-size: 15px; letter-spacing: 0px; color: white; z-index: 2; margin: 0px; text-transform: uppercase; text-align: justify; position: absolute; left: 180px; top: 65px; width: 150px; height: 200px; overflow: hidden; line-height: 19px;  -webkit-transition: all 1.5s ease-in-out; -moz-transition: all 1.5s ease-in-out; -ms-transition: all 1.5s ease-in-out; -o-transition: all 1.5s ease-in-out; }
+#deehcxtx:hover .deehtitle { opacity: 0; -webkit-transition: all 1s ease-in-out; -moz-transition: all 1s ease-in-out; -ms-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; }
+.deehbox { width: 300px; height: 140px; position: absolute; left: 80px; top: 60px; opacity: 0; -webkit-transition: all 1.5s ease-in-out; -moz-transition: all 1.5s ease-in-out; -ms-transition: all 1.5s ease-in-out; -o-transition: all 1.5s ease-in-out; background-color: white; z-index: 5; padding: 20px; }
+.deehbox p { margin: 20px 20px 0 20px; padding-bottom: 10px;width: 260px; height: 156px; overflow: auto; font-family: times; font-size: 9px; letter-spacing: 1px; -webkit-columns: 260px 4; -moz-columns: 260px 4; columns: 260px 4; text-transform: lowercase; line-height: 11px; text-align: justify; -webkit-column-gap: 40px; -moz-column-gap: 40px; column-gap: 10px; z-index: 6; }
+#deehcxtx:hover .deehbox { opacity: 1; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition-delay: 1.5s; -moz-transition-delay: 1.5s; -ms-transition-delay: 1.5s; -o-transition-delay: 1.5s; }
+.deehbox p::-webkit-scrollbar { height: 15px; width: 10px; background: transparent;}
+.deehbox p::-webkit-scrollbar-thumb { background: #000; }
+.deehbox p::-webkit-scrollbar-corner { background: #000; }
+.deehbox p::-webkit-scrollbar-track { background: transparent; }
+</style>
+<center>
+<div id="deehcxtx">
+<div class="deehtitle">Oblique et coupant l'ombre un torrent éclatant.
+Ruisselait en flots d'or sur la dalle polie. Où les atomes d'ambre au feu se miroitant. Mêlaient leur sarabande à la gymnopédie.</div>
+<div class="deehbox">
+<p><br><br><br>
+  <b>LARS FRIDEGÅRD & GADREEL</b>
+<br>OUTUBRO; 300 DH.
+  <br> Baía do Diabo. 
+</div>
+</div>
+
+
+</center>
+[/dohtml]
