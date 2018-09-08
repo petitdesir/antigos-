@@ -1,0 +1,124 @@
+[dohtml]
+
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+
+
+<style type="text/css">
+  
+.felix1000 {width: 500px;
+  padding-right: -50px;
+}
+ 
+.felix1001 {color: transparent;
+            text-shadow: 0 0 5px rgba(0,0,0,0.5);
+            font-family: times; 
+            font-size: 80px; 
+            letter-spacing: -2px; 
+            line-height: 10px; 
+            text-align:center; 
+            text-transform: uppercase; 
+            white-space:pre-line;  
+            margin-top: 50px; margin-bottom:0px
+}
+
+.felix1002 { color: black; 
+            font-family: times; 
+            font-size: 7px; 
+            letter-spacing: 15px; 
+            line-height: 36px; 
+            text-align:center; 
+            text-transform:uppercase;  
+            margin-top: -40px;
+}
+
+  
+  
+.felixpost { width: 380px; 
+  background-color: #ffffff; 
+  padding-left: 60px; 
+  padding-right: 60px; 
+  padding-top: 30px; 
+  padding-bottom: 30px; 
+  font-family: times; 
+  color: #121212; 
+  font-size: 12px; 
+  line-height: 120%; 
+  text-align: justify; 
+  border-bottom: 1px solid #000000;
+  border-top: 1px solid #000000;
+}
+  
+  
+  
+  ________________________________________________________________
+ 
+  
+.variables alix { color: #000; 
+                    font-weight:bold;
+                    font-family: arial narrow;
+                    font-size: 12px;
+}
+                    
+.variables sanng { text-transform: uppercase;
+font-size: 9px;
+                    font-weight:bold; }
+                    
+.variables felix { color: #000; 
+                    font-size: 11.5px;
+                    font-weight:bold; }
+
+</style>
+
+
+<center>
+   
+    <br>
+    <br>
+  
+      <div class="felix1000">
+ 
+<div class="felix1001">
+  
+  necropolis. 
+  
+</div>
+
+<div class="felix1002">
+  
+  lord of <b>bones</b>
+  
+</div>
+
+        </div>
+  
+  <br>
+  <br>
+  
+  
+<div class="felixpost">
+  
+  
+  <br>
+  <br>
+  
+<div class="variables">
+  
+ 
+                          
+  
+  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. — <felix>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </felix> — Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+  
+  
+  <br>
+  <br>
+    
+  
+  </div>
+  </div>
+  
+  
+</center>
+[/dohtml]
