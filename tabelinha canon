@@ -1,0 +1,137 @@
+<style type="text/css">
+
+.petitdesir{ width: 150px; 
+height: 100px; 
+padding-top: 50px;
+background-color: #FFF;
+opacity: 0;  
+font-family: Arail Narrow;
+font-size: 12px; 
+color: #000; 
+text-transform: uppercase;  
+text-align:center; 
+letter-spacing: 2px; 
+-webkit-transition-property: opacity; 
+-webkit-transition-duration: .7s; 
+-webkit-transition-timing-function: linear; 
+-moz-transition-property:opacity; 
+-moz-transition-duration: .7s; 
+-moz-transition-timing-function: linear; }
+
+.petitdesir:hover { opacity:1; }
+
+.petitdesir02 {width:100px;
+padding:20px}
+
+.petitdesir03 { width: 98px;
+padding-bottom: 5px;
+font-family: Playfair Display SC;
+color: #000;
+font-size: 10px; 
+text-align: center; 
+text-transform: uppercase;
+line-height: 80%; 
+letter-spacing: 2px; }
+
+.petitdesir04 { width: 120px; 
+height: 100px; 
+background-color:#F9F9F9; 
+padding:15px; 
+color:#000; 
+font-family: Times New Roman;
+font-weight:200;
+font-size: 8px; 
+text-align:justify; 
+text-transform: lowercase;
+overflow:auto;
+border-bottom: 5px solid #000;
+border-top: 1px solid #000;  }
+
+.petitdesir05 { width: 140px; 
+background-color:#000; 
+padding:5px; 
+color: #FFF; 
+font-family: Times New Roman;
+font-weight:200;
+font-size: 8px; 
+text-align:center; 
+text-transform: uppercase; }
+
+.petitdesir06 { width: 300px;
+padding-top: 5px;
+padding-bottom: 20px;
+font-family: times new roman;
+font-weight:200;
+font-size: 8px;
+text-align: right;
+text-transform: lowercase;
+letter-spacing: 1px;
+text-shadow: 0px 2px 0px #FFF; }
+
+</style>
+
+<center>
+<div class="petitdesir02">
+
+<table cellspacing="0" cellpadding="0">
+<tr>
+
+<td>
+<div class="petitdesir03">
+
+ALIX LÖHNHOFF</div>
+
+<div class="petitdesir04">
+
+<i>"à tout le monde, entier, je vous aime, moi ce la vie. these are the last words i’ll ever speak and they’ll set me free".</i><p>
+
+gêmea de aliki, por dezessete anos foi o principal alvo dos caprichos dele. não é para menos: alix morreu como a favorita de felix simplesmente por, entre seus filhos, ser a única capaz de amar genuinamente – apesar de toda aquela pose – e a mais parecida com ele. dona de uma aura pueril, foi poupada das violências e brutalidades do castelo. não se sabe até onde isso a agradava. sua morte foi brutal, durante um acidente que poderia facilmente evitado por maior atenção, aos dezesete anos. morreu apaixonada por beau e uma vez este indo para o castelo de seu pai, o dever de alix passou a ser protegê-lo, já que a única coisa que morreu foi seu corpo físico. o resto permanece intacto.
+
+
+</div>
+
+<div style="width: 150px; 
+height: 150px; 
+background-image: url(https://i.imgur.com/8KWpAIq.png)">
+
+<div class="petitdesir">FANTASMA 01</div></div>
+
+<div class="petitdesir05">
+
+ALIX LÖHNHOFF · 17 ANOS · DROW · FRANCIS BEAN COBAIN
+
+</div>
+</td>
+
+<td>
+<div style="width:10px;"></div>
+</td>
+<td>
+<div class="petitdesir03"> Sanngriðr<br> (A Violenta)
+  </div>
+
+<div class="petitdesir04"> <i>"The hammer of the gods, Will drive our ships to new lands. To fight the horde, singing and crying. Valhalla, I am coming"</i><p>
+
+por definição, as valkirias eram conhecidas como "aquelas que escolhem os mortos". elas ajudavam a constituir o exército de odin, em sua tarefa de levar os melhores guerreiros para o deus. sanngridr, no entanto, foi castigada pelo deus ao tomar uma decisão que traria consequências desagradáveis para si; sendo obrigada a virar humana, perdendo sua imortalidade. sanngridr renasce em skuld e lá passa a caminhar entre os humanos. quando ela é morta em batalha pelo necromante félix LOHNÖFF, ela se é aprisionada pelo próprio warlock. 
+  
+  
+</div>
+
+<div style="width: 150px; 
+height: 150px; 
+background-image: url(https://i.imgur.com/rF4lDfX.png)">
+
+<div class="petitdesir">FANTASMA 02</div></div>
+
+<div class="petitdesir05">
+
+Sanngriðr · 33 ANOS · Valkyria Caída  · EVA GREEN</div>
+
+</td>
+</tr>
+  
+</table>
+
+</div>
+
+</center>
