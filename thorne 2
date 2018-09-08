@@ -1,0 +1,29 @@
+[dohtml]<link href='http://fonts.googleapis.com/css?family=Maven+Pro:900' rel='stylesheet' type='text/css'><style>
+.khowto { padding: 15px; width: 200px; font-weight: bold; color: white; font: 9px helvetica; text-transform: uppercase; text-align: justify; letter-spacing: 2px; margin-top: 10px; }
+.kwith { width: 100%; background-color: #FBFBFBF; height: 5px; border: 1px solid black; }
+.kscandal { font-size: 11px; font-family: calibri, sans-serif; color: #222; line-height: 170%; width: 400px; padding: 40px; background: #fbfbfb; text-align: justify; font-weight: 500; letter-spacing: 1px; }
+.kscandal b { color: #915458; font-family: calibri; }
+.kshonda { width: 480px; text-align: justify; }
+.kgreys { width: 400px; padding: 40px; padding-top: 110px; height: 90px; background: top url(http://i.imgur.com/34sNX4f.png) #000003; background-repeat: no-repeat; overflow: hidden; -moz-transition: all 1s; -webkit-transition: all 1s; -o-transition: all 1s; -ms-transition: all 1s; transition: all 1st; }
+.kgreys:hover { background: bottom url(http://i.imgur.com/34sNX4f.png) #030001; background-repeat: no-repeat; }
+.kgreys h1 { text-transform: uppercase; color: white; padding: 3px 5px; border: 1px solid white; font-weight: 600; font: 8px calibri; letter-spacing: 2px; display: inline; }
+.kgreys span { border-bottom: 3px solid #ce9ea7; color: white; font-style: italic; font-weight: bold; text-transform: uppercase; padding-bottom: 5px; font: 16px Maven Pro; letter-spacing: 2px; }
+.kmurder { margin-top: 0px; -moz-transition: all 0.6s; -webkit-transition: all 0.6s; -o-transition: all 0.6s; -ms-transition: all 0.6s; transition: all 0.6s; }
+.kgreys:hover .kmurder { margin-top: -210px; }
+</style><center><div class="kshonda"><div class="kwith" style="border: none; border-top: 1px solid black;"></div><div class="kgreys"><div class="kmurder"><center><h1>
+
+
+000 PALAVRAS, COM DANTE
+
+
+</h1><div style="height: 130px;"></div><span>notes</span><div class="khowto">
+
+Olha aqui, nós vamos usar o mesmo template, A.bacate, e fim! Espero que goste, não interagi agora porque ela esta ~perdida~ com a ideia de dançar, [s]e deixei a tarefa para você[/s], espero que esteja do agrado e de acordo com o contrato assinado. Obrigada à Mama pelo template!
+
+</div></center></div></div><div class="kwith" style="border: none; border-top: 1px solid black; margin-top: 5px;"></div><div class="kscandal">
+
+miau miau <b>eu sou feliz</b> <i>miau miau</i>
+
+
+</div>
+</center>[/dohtml]
