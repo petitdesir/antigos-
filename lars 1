@@ -1,0 +1,210 @@
+[dohtml]
+ 
+<center>
+
+<div class="persephone01">
+
+<div class="persephone02">
+
+<div class="persephone03">
+
+<center>
+
+<center><br />
+
+<div class="persephone06">
+
+lars
+
+</div>
+
+<p>
+
+<div class="persephone07">
+
+the good one. 
+
+</div>
+
+<div class="persephone04">
+ 
+ 
+</center>
+ 
+<p>
+
+<div class="persephone05">
+
+ 
+<center>
+<table style="border: 1px solid #F8F8F8;">
+<td class="lithum001">CARP LULLABY</td>
+<td class="lithum001">SOLO.</td>
+<TR>
+<td class="lithum001">krwling under your skin</td>
+<td class="lithum001">gadreel</td>
+<TR>
+<td class="lithum001">i've became so numb</td>
+<td class="lithum001">gadreel</td>
+<TR>
+<td class="lithum001">
+gymnopédies: lent et doulouréx</td>
+<td class="lithum001">gadreel</td>
+<TR>
+<td class="lithum001">gymnopédies: lent et triste
+</td>
+<td class="lithum001">gadreel</td>
+<TR>
+<td class="lithum001">gymnopédies: lent et grave</td>
+<td class="lithum001">gadreel</td>
+<TR>
+<td class="lithum001">Célula 1</td>
+<td class="lithum001">gadreel</td>
+<TR>
+
+
+</table>
+</center>
+
+
+
+</ br></ br>
+
+
+</div>
+    </div>
+        </div>
+            </div>
+                 </div>
+                
+                        
+                            
+
+</center>
+
+ 
+<style type="text/css">
+ 
+ 
+ 
+.persephone01 { width:520px; 
+                background-color:#F8F8F8; 
+                border-bottom: 60px solid #F8F8F8; 
+                border-top: 60px solid #F8F8F8;
+}
+ 
+.persephone02 { width:400px; 
+                padding-top: 30px; 
+                padding-bottom: 70px; 
+                background-color: #FFF; 
+}
+ 
+.persephone03 { width:400px; 
+                text-align:justify;
+}
+ 
+ 
+.persephone04 { width: 300px; 
+                font-family: 'Playfair Display', serif; 
+                font-size: 8px; 
+                letter-spacing: 1px; 
+                color: #000; 
+                text-transform: none; 
+                text-align: justify; 
+                line-height:110%; 
+                padding-bottom:15px;
+}
+ 
+ 
+.persephone05 { width: 300px;
+                font-family: 'Playfair Display', serif;
+                font-size: 10.5px;  
+                line-height: 120%;
+                text-align: justify;
+}
+ 
+
+.persephone06 {text-align: center; 
+                font-family: 'Playfair Display', serif;
+                font-size: 37px; 
+                text-transform: uppercase; 
+                color: #363636; 
+                letter-spacing: 2px; 
+                line-height: 100%; 
+                padding-top: 20px;
+}                  
+                    
+
+.persephone07 { text-align: center; 
+                font-family: 'Playfair Display', serif;
+                font-size: 15px; 
+                text-transform: uppercase; 
+                color: #363636; 
+                letter-spacing: 2px; 
+                line-height: 100%; 
+                padding-top: 10px;
+}
+
+.persephone08 { width:400px; 
+                border-bottom: 0px solid #F8F8F8;
+    
+}
+
+.persephone09 {text-align: none; 
+                font-family: 'Playfair Display', serif;
+                font-size: 9px; 
+                font-weight: 800; 
+                text-transform: lowercase; 
+                color: #000; 
+                letter-spacing: 0px; 
+                line-height: 100%;
+                padding-top: 50px;
+}
+    
+.persephone10 {text-align: right; 
+                font-family: 'Playfair Display', serif;
+                font-size: 9px; 
+                text-transform: lowercase; 
+                color: #000; 
+                letter-spacing: 0px; 
+                line-height: 0%; 
+                padding-bottom: 40px;
+}
+
+
+.lithum001  { width: 150px; 
+                background-color: #FFF; 
+                padding: 5px;  
+                font-size: 9.5px; 
+                text-transform: lowercase; 
+                text-align: justify; 
+                -webkit-transition-property: color, background-color; 
+                -webkit-transition-duration: .5s; 
+                -webkit-transition-timing-function: linear; 
+                -moz-transition-property: color, background-color;
+                -moz-transition-duration: .5s; 
+                -moz-transition-timing-function: linear, ease-in; 
+    
+} 
+
+.lithum001:hover  {background-color: #F8F8F8; 
+                    color: #000;}
+
+
+
+
+/ testes aqui /
+
+https://codepen.io
+
+/ recado para deeh /
+
+ôh vadia, por favor, tenta não pegar meus códigos, grata.
+
+
+</style>
+
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+
+[/dohtml]
+  
