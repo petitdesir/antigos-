@@ -1,0 +1,49 @@
+[QUOTE=Meena,Jul 23 2017, 09:06 PM][dohtml]<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900|Lato:100|Cousine" rel="stylesheet"><style>#sound {width: 550px; background-color: #121212; position: relative;}
+.silence {width: 550px; background-color: #222; position: relative; height: 400px; overflow: hidden;}
+@-moz-keyframes ontheblinkk {18%, 29%, 35%, 37%, 43% {color: transparent; text-shadow: none;} 16%, 28%, 30%, 34%, 36%, 38% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #ff9000, 0 0 15px #ff0000;}}
+@-webkit-keyframes ontheblinkk {18%, 29%, 35%, 37%, 43% {color: transparent; text-shadow: none;} 16%, 28%, 30%, 34%, 36%, 38% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #ff9000, 0 0 15px #ff0000;}}
+@-moz-keyframes ontheblink {21%, 39%, 45%, 47%, 53% {color: transparent; text-shadow: none;} 26%, 38%, 40%, 44%, 46%, 48% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #ff9000, 0 0 15px #ff0000;}}
+@-webkit-keyframes ontheblink {21%, 39%, 45%, 47%, 53% {color: transparent; text-shadow: none;} 26%, 38%, 40%, 44%, 46%, 48% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #ff9000, 0 0 15px #ff0000;}}
+.soslyr {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #ff9000, 0 0 15px #ff0000; font: 100px Playfair Display; letter-spacing: -5px; text-align: center;}
+.out {-moz-animation: ontheblink 10s infinite; -ms-animation: ontheblink 10s infinite; -webkit-animation: ontheblink 10s infinite;}
+.out2 {-moz-animation: ontheblinkk 10s infinite; -ms-animation: ontheblinkk 10s infinite; -webkit-animation: ontheblinkk 10s infinite;}
+.soslyr2 {padding: 10px; text-align: right; font: 8px cousine; color: #fff; text-transform: uppercase;}
+.soslyr3 {color: #fff; font: 8px cousine; text-transform: uppercase; text-align: left; padding: 30px 0px 0px 40px; margin-bottom: -25px;}
+.soslyr3:after {content: ""; display: inline-block; vertical-align: middle; margin-left: 20px; height: 1px; background-color: #fff; width: 220px;}
+.soslyr4 {color: #616161; font: 20px lato; font-weight: 100; text-transform: uppercase; text-align: center; margin-top: -15px; padding: 0px 0px 30px 0px; letter-spacing: 40px; margin-left: 35px;}
+#sound .sosimg {width: 550px; height: 400px; background-position: 0px 0px; background-image: url(http://i.imgur.com/oxvJ7gd.png); background-size: cover; transition-delay: 0.6s; -moz-transition-delay: 0.6s; -webkit-transition-delay: 0.6s; transition-duration: 0.8s; -moz-transition-duration: 0.8s; -webkit-transition-duration: 0.8s;}
+#sound:hover .sosimg {background-position: -150px 0px; transition-delay: 0.0s; -moz-transition-delay: 0.0s; -webkit-transition-delay: 0.0s;}
+#sound .sosbg {transition-delay: 0.0s; -moz-transition-delay: 0.0s; -webkit-transition-delay: 0.0s; transition-duration: 0.6s; -moz-transition-duration: 0.6s; -webkit-transition-duration: 0.6s; width: 550px; height: 400px; background-color: rgba(18,18,18,0.9); bottom: -400px; position: absolute; left: 0px;}
+#sound:hover .sosbg {bottom: 0px; transition-delay: 0.6s; -moz-transition-delay: 0.6s; -webkit-transition-delay: 0.6s;}
+.sosbg2 {margin: 20px; border: 1px solid #2f2f2f; padding: 20px; height: 320px; position: relative;}
+.soswrite {background-color: rgba(18,18,18,0.6); padding: 20px; position: absolute; top: 20px; left: 20px; border: 1px solid #2f2f2f; width: 200px; height: 280px;}
+.soswrite2 {color: #616161; font: 9px tahoma; text-align: justify; line-height: 105%; height: 240px; padding-right: 10px; overflow: auto; margin: 20px;}
+.soswrite2 b {font: 10px playfair display; font-weight: 900; color: #9f4141;} .soswrite2 i {color: #9f4141;}
+.sosimg2 img {position: absolute; top: 20px; right: 20px; padding: 10px; background-color: rgba(18,18,18,0.6); border: 1px solid #2f2f2f; height: 300px; width: 180px; filter: grayscale(100%); -moz-filter: grayscale(100%); -webkit-filter: grayscale(100%);}
+</style><center><div id="sound"><div class="soslyr3">she coulda done, just anything or anyone cause she's a</div>
+<div class="soslyr">G<span class="out">O</span>DDE<span class="out2">S</span>S</div><div class="soslyr4">you never got this</div><div class="silence">
+
+<div class="sosimg" style="background-image: urlhttp://i.imgur.com/oxvJ7gd.png);">
+
+<div class="sosbg"><div class="sosbg2"><div class="soswrite"><div class="soswrite2">
+
+
+<div style="position: relative; top: 50%; transform: translateY(-50%);">Deusa, sim. Talvez não o diga. Talvez não o pense de forma direta, mas está lá. No fundo da sua mente, está essa assunção de superioridade.
+
+<br><br>
+
+É de esperar que tenha dificuldades em estabelecer relações duradouras. Não se preocupa com isso e uma relação não se pode estabelecer por vontade de apenas um dos lados. Meena não vê potenciais amigos nos outros; vê objetivos.
+
+<br><br>
+
+Uma mulher de muitos conhecidos, apesar dos poucos amigos, entretanto, devido às suas inúmeras viagens por Essos. É incapaz de assentar num só lugar.</div>
+
+</div></div><div class="sosimg2">
+
+<img src="http://i.imgur.com/G8JBDAf.png" />
+
+</div></div></div></div></div><div class="soslyr2">
+
+
+
+</div></div><div style="width: 550px; font-family: arial; text-align: right; text-transform: uppercase; font-size: 7px;"><a href="http://shine.jcink.net/index.php?showuser=145">LAUZ  ღゝ◡╹)ノ♡</a></div></center>[/dohtml][/QUOTE]
