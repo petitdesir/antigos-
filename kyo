@@ -1,0 +1,173 @@
+[dohtml]<link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
+<style type="text/css">
+c { color: #fff; font-family: arial; line-height: 120%; font-size: 7px; font-style: italic; text-transform: lowercase; letter-spacing: 1px; }
+t { font-weight: bold; text-transform: uppercase; font-size: 8px; color: #cdb440; }
+
+.gfi { width: 200px; height: 300px; margin-top: 0px; overflow: hidden; }
+
+.gflys { width: 180px; height: 60px; background-color: #000; color: #fff; font-family: courier; text-transform: uppercase; padding: 10px; text-align: justify; line-height: 160%; font-size: 8px; letter-spacing: 1px; overflow: hidden; margin-top: -170px; -moz-transition-duration: 0.8s;  -webkit-transition-duration: 0.8s;  -o-transition-duration: 0.8s; }
+
+.gfi:hover .gflys { width: 180px; height: 60px; padding: 10px; background-color: #000; margin-top: 0px; -moz-transition-duration: 0.8s;  -webkit-transition-duration: 0.8s;  -o-transition-duration: 0.8s; }
+
+.amc::-webkit-scrollbar-thumb{
+background-color: #000;
+border: 2px solid #fff;
+height: auto;
+}
+
+.amc::-webkit-scrollbar {  
+height: auto;
+width: 11px;
+background-color: #000;
+border: 5px solid #fff;
+}
+
+.tabs {
+position: relative;   
+width: 170px;
+height:  297px;
+clear: both;
+left: 10px;
+margin: 5px 0px;
+}
+
+.tab {
+float: left;
+}
+
+.tab label {
+text-align: center;
+color: #fff;
+font-size: 8px;
+font-family: arial;
+text-transform: uppercase;
+background: #000; 
+border-radius: 100%;
+position: relative;
+left: 0px; 
+}
+
+.tab [type=radio] {
+display: none;   
+baseline-tab-shift: true, retrieve;
+}
+
+.content {
+position: absolute;
+bottom: 0px;
+top:25px;
+left: 0px;
+right: 0px;
+background: #fff;
+text-align: justify;
+font-family: verdana;
+font-size: 9px;
+line-height: 165%;
+padding: 10px;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+.amc {
+overflow: auto;
+width: 140px; padding-right: 10px;
+height: 250px;
+}
+
+[type=radio]:checked ~ label {
+color: #fff;
+z-index: 2;
+}
+
+[type=radio]:checked ~ label ~ .content {
+z-index: 1;
+}
+</style>
+
+<center>
+<div style="width: 430px; padding: 2px; background-color: #fff; border: 1px solid #000;">
+<div style="width: 400px; padding: 15px; background-color: #000;">
+<div style="width: 400px; background-color: #fff;">
+<div style="width: 350px; padding: 25px; height: 30px; color: #000; background-color: #fff; line-height: 30px; font-family: abril fatface; text-transform: uppercase; text-align: left; font-size: 28px;">// herculean van gogh</div>
+<div style="width: 350px; height: 2px;"><div style="float: right; width: 75%; height: 2px; background-color: #cdb440;"></div></div>
+<div style="padding: 10px 0px; background-color: #fff;">
+<table cellspacing="0" cellpadding="0">
+<td><div class="gfi"><div style="width: 200px; height: 300px; background-image: url(http://i.imgur.com/fWjeBke.png); overflow: hidden;"><div class="gflys">
+marjin lodbrók.
+<p><c>→ You wanted good schools and friends with pools. You're not a Contra, you wanted Rock and Roll. Complete control... Never pick sides, but I just wanted you.
+</c>
+</div></div></div></td>
+<td><div style="width: 180px; height: 300px; background-color: #fff;">
+
+<div class="tabs">
+
+<div class="tab">
+<input type="radio" id="tab-1" name="tab-group-1" checked>
+<label for="tab-1"><div style="width: 20px; height: 20px; line-height: 20px; border-radius: 20px; background-color: #000; color: #fff; text-align: center;">b</div></label>
+<div class="content"><div class="amc">
+<t>basics</t> // Um rapaz [u]louco[/u]. Sua mente possui variações, seu cérebro vê uma forma do mundo totalmente diferente. Tudo tem movimento, tudo possui uma forma. Até as cores. Oh, as cores. Marjin não vê as cores de forma normal, mas sim de uma forma quase lunática. Alcança os mais profundos sentimentos, levando-o a um estado de choque. Um tremendo pedaço rápido de cor muda totalmente a sua disposição.
+<br>Estranhamente rebelde perante sua família ao tomar as rédeas do seu futuro e abandonar todo o monopólio económico, Marjin consegue finalmente tomar uma decisão por si mesmo. Contudo, esta ação não é comum. Entrelaçado entre a tradição e o seu próprio ser, o rapaz vive num labirinto mental sem escapatória, tornando-o estranho, afetado, maluco.
+
+<br><br>Marjin nasceu como um rei, portando o sangue vicking do Guerreiro-Barão.
+<br>Mas morre lentamente como um louco.
+</div></div>
+</div>
+
+<div class="tab">
+<input type="radio" id="tab-2" name="tab-group-1">
+<label for="tab-2"><div style="width: 20px; height: 20px; line-height: 20px; border-radius: 20px; background-color: #000; color: #fff; text-align: center; margin-left: 3px;">f</div></label>
+<div class="content"><div class="amc">
+<t>friends</t> // são diferentes dos outros, ou conseguem alcançar um carisma para com o garoto. conseguem fazer com que ele se sinta bem.
+
+<br><br><i><u>osten van lodbrók</u></i> é seu irmão mais velho, seu companheiro, o único que lhe comprou um único quadro.
+<br><i><u>madja badje</u></i> é sua avó materna, o único traço que resta de sua mãe. uma mulher diferente, amorosa.
+<br><i><u>leonard</u></i> é um antigo amigo de durmstrang
+<br><i><u>rent</u></i> é um antigo amigo de durmstrang
+
+<hr>
+<br><i><u>neptune</u></i> uma garota que, devido a um contra-tempo, virou sua amiga, e juntos tentam recuperar a nona sinfonia. 
+<br><i><u>petya</u></i> antiga amiga de durmstrang que cruza os caminhos nas artes com o marjin.
+<br><i><u>vicent</u></i> conheceram-se em valençay, devido à bondade 
+<br><i><u>gaspard</u></i> o melhor fotografo! amigo de marjin desde valençay
+<br><i><u>gaston</u></i> pouco se conhecem, mas parece ser um homem legal (?)
+<br><i><u>beau.</u></i> ela é de poucas palavras. marjin gosta disso nela.<br><i><u>lole</u></i> ela deu-lhe a casa quando ele fugia. algo que marjin nunca vai esquecer
+</div></div>
+</div>
+
+<div class="tab">
+<input type="radio" id="tab-3" name="tab-group-1">
+<label for="tab-3"><div style="width: 20px; height: 20px; line-height: 20px; border-radius: 20px; background-color: #000; color: #fff; text-align: center; margin-left: 3px;">e</div></label>
+<div class="content"><div class="amc">
+<t>enemies</t> // por conta da tradição ou por simples problemas com o rapaz, a lista é extensa.
+
+<br><br><i><u>rutger van lodbrók</u></i> pai e destruídor de famílias e sonhos.
+<br><i><u>heide van lodbrók</u></i> avó paterna e apoiante do filho a cem por cento,
+<br><i><u>brunswick van lodbrók</u></i>  avô paterno e apoiante do filho a cem por cento.
+<hr><i><u>Basile</u></i> marjin não distingue se é pela opção sexual do rapaz ou se é por mero ciúmes.
+<br>
+</div></div>
+</div>
+
+<div class="tab">
+<input type="radio" id="tab-4" name="tab-group-1">
+<label for="tab-4"><div style="width: 20px; height: 20px; line-height: 20px; border-radius: 20px; background-color: #000; color: #fff; text-align: center; margin-left: 3px;">l</div></label>
+<div class="content"><div class="amc">
+<t>lovers</t> // <i>and then lastly this is for the lovers</i>.
+
+<br><br><i><u>madlyn</u></i> primeiro amor e primeira namorada de marjin. ela apoiava a família e gostava de seu pai, tanto que o casamento era, certamente, o ideal. contudo, a relação terminou após quatro anos.
+<hr>
+<i><u>manon</u></i> uma paixoneta que começou quando marjin começa a visitar beauxbatons. ele gosta dela, mas não lhe consegue dizer.
+</div></div>
+</div>
+
+</div>
+
+</div></td>
+</table>
+</div>
+</div></div>
+</div>
+</center>
+
+<center><a href="http://z10.invisionfree.com/A_THOUSAND_FIREFLIES/index.php?showuser=12224"><div style="width: 430px; margin: 0px; font-family: arial; text-transform: uppercase; text-align: left; font-size: 6px; color: #111;">robb stark</div></a></center>
+[/dohtml]
