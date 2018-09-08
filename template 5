@@ -1,0 +1,40 @@
+[dohtml]<style>
+
+#letgo { width: 370px; background: #fff; box-shadow: 1px 1px 3px #111; -webkit-box-shadow: 1px 1px 3px #111; -moz-box-shadow: 1px 1px 3px #111; }
+
+.letgotop { height: 130px; padding: 30px; background: -webkit-linear-gradient(top left, #008584, #5EBDAC, #C5E6DC); background: -o-linear-gradient(top left, #008584, #5EBDAC, #C5E6DC); background: -moz-linear-gradient(top left, #008584, #5EBDAC, #C5E6DC); background: linear-gradient(top left, #008584, #5EBDAC, #C5E6DC); background-attachment: fixed; }
+
+.letgotop img { position: relative; top: 40px; width: 100px; height: 100px; border: 5px solid #fff; background-image: url(http://placehold.it/100x100); display: inline-block; z-index: 2; }
+
+.letgotitle { position: relative; top: 10px; width: auto; padding: 5px; font-family: montserrat; font-size: 20px; color: #C5E6DC; font-weight: 700; text-shadow: -1px -1px #5EBDAC, 1px -1px #5EBDAC, -1px 1px #5EBDAC, 1px 1px #5EBDAC; text-align: center; text-transform: uppercase; letter-spacing: -1px; line-height: 15px; }
+.letgotitle:before { content: ''; width: 20px; height: 1px; background: #fff; display: inline-block; vertical-align: middle; margin-right: 10px; }
+.letgotitle:after { content: ''; width: 20px; height: 1px; background: #fff; display: inline-block; vertical-align: middle; margin-left: 10px; }
+
+.letgotag { display: inline-block; margin-top: 15px; margin-left: 10px; width: 175px; padding: 5px; border-bottom: 1px solid #fff; font-family: cousine; font-size: 8px; color: #fff; text-align: left; text-transform: uppercase; letter-spacing: 1px; line-height: 10px; }
+
+.letgotop:after { content: ''; width: 0; height: 0; border-bottom: 50px solid #fff; border-right: 370px solid transparent; margin-top: -50px; display: block; position: relative; top: 25px; right: 30px; z-index: 1; }
+
+.letgocont { margin-top: 10px; padding: 60px; font-family: arial; font-size: 10px; color: #111; text-align: justify; text-transform: lowercase; letter-spacing: 1px; line-height: 12px; }
+
+.letgocont b { color: #5EBDAC; }
+
+</style> <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> <link href='http://fonts.googleapis.com/css?family=Cousine:400,700' rel='stylesheet' type='text/css'>
+
+<center><div id="letgo">
+
+<div class="letgotop">
+<div class="letgotitle">LET IT ALL GO</div>
+
+<img src="http://placehold.it/100x100"> <div class="letgotag">TAG. WORDS. NOTES.</div>
+
+</div>
+
+<div class="letgocont">
+
+this is where your post goes!
+
+</div>
+
+</div>
+
+<div style="width: 370px; text-align: right; font-family: arial; font-size: 7px; text-transform: uppercase; letter-spacing: 1px;"><a href="http://shine.b1.jcink.com/index.php?showuser=3079">♥ HANNAH</a></div></center>[/dohtml]
