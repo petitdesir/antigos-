@@ -1,0 +1,19 @@
+[dohtml]<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900" rel="stylesheet"> <style>#ravus {width: 500px; height: 500px; padding: 5px; background-color: #fff; border: 1px solid #e0e0e0; position: relative;}
+.ravus2 {width: 500px; height: 500px; background-size: cover;}
+.ravus3 {width: 326px; height: 130px; padding: 7px; border: 1px solid #c1bfbd; position: absolute; top: 30px; left: 40px; background-color: rgba(193,191,189,0.8);}
+.ravus4 {border: 1px solid #c1bfbd; background-color: rgba(193,191,189,0.3); padding: 10px; width: 320px; height: 275px; position: absolute; bottom: 30px; left: 40px;}
+.ravus5 {background-size: cover; background-image: url(https://media.giphy.com/media/Aow0U1d3TeUMw/giphy.gif); width: 326px; height: 130px;}
+.ravus6 {position: absolute; left: 350px; bottom: 205px; transform: rotate(90deg); font: 34px playfair display; letter-spacing: -2px; font-weight: 900; text-transform: uppercase; color: #c1bfbd; text-shadow: 1px 1px 0px #4b4643;}
+.ravus6 b {color: #91220f; position: relative; z-index: 3;}
+.ravus7 {background-color: rgba(193,191,189,0.7); padding: 20px; border: 1px solid #c1bfbd; height: 232px;}
+.ravus8 {height: 212px; padding-right: 10px; font: 11px tahoma; color: #2f2c2a; line-height: 105%; text-align: justify; overflow: auto; margin: 10px;}
+.ravus8 b, .ravus8 i {color: #91220f;}</style>
+<center><div id="ravus">
+
+<div class="ravus2" style="background-image: url(http://i50.tinypic.com/2vnqc7c.png);">
+
+<div class="ravus3"><div class="ravus5"></div></div><BR><div class="ravus4"><div class="ravus7"><div class="ravus8">
+
+post here.
+
+</div></div></div><div class="ravus6">blood on the floor</div></div></div><div style="width: 500px; font-family: arial; text-align: right; text-transform: uppercase; font-size: 7px;"><a href="http://shine.jcink.net/index.php?showuser=145">&copy; lauz</a></div></center>[/dohtml]
