@@ -1,0 +1,88 @@
+<style type="text/css">
+
+.petitdesir01 { width: 120px; height: 20px; padding:10px; background-color: #FFF;  color:#000; letter-spacing: 1px; font-size: 10px; font-family:  arial; text-align: center; text-transform: lowercase; -o-transition: all 0.8s ease-in-out; -webkit-transition: all 0.8s ease-in-out; -moz-transition: all 0.8s ease-in-out;  }
+.petitdesir01 a:link, .petitdesir01  a:visited, .petitdesir01  a:active { vertical-align: middle; text-align: justify; color:#FFF; letter-spacing: 1px; font-size: 10px; font-family: calibri; text-transform: uppercase;  color: #000; }
+.petitdesir01:hover { background-color: #EDB92E; color: #FFF; }
+
+.petitdesir011 { width: 120px; height: 20px; padding:10px; background-color: #000;  color:#FFF; letter-spacing: 1px; font-size: 10px; font-family:  arial;  text-align: center; text-transform: lowercase; -o-transition: all 0.8s ease-in-out; -webkit-transition: all 0.8s ease-in-out; -moz-transition: all 0.8s ease-in-out;  }
+.petitdesir01 a:link, .petitdesir01  a:visited, .petitdesir01  a:active { vertical-align: middle; text-align: center; color:#FFF; letter-spacing: 1px; font-size: 10px; font-family: calibri; text-transform: uppercase;  color: #000; }
+.petitdesir01:hover { background-color: #EDB92E; color: #FFF; }
+
+.petitdesir02 { width: 246px; padding:20px; background-color: #000;  color:#FFF; letter-spacing: 1px; font-size: 12px; font-family: arial;  text-align: right; text-transform: uppercase; -o-transition: all 0.8s ease-in-out; -webkit-transition: all 0.8s ease-in-out; -moz-transition: all 0.8s ease-in-out; }
+.petitdesir02:hover { background-color: #EDB92E; color: #FFF; }
+
+</style>
+<center>
+
+<div class="petitdesir02">PODERES</div>
+  
+  
+   <div class="petitdesir01"><p>Abjuração: Nessa fase inicial, um infernalista ganha um capetinha de tendência bondosa (diabrete azul) ou caótica (imp vermelho). Essas criaturas não são de fatos demônios propriamente ditos, são espíritos travessos, a diferença é que o diabrete faz travessuras inocentes e o imp é mais malvado e colérico. A partir do nível 2, a abjuração se torna duradoura, assim, o infernalista pode manter um vínculo com a sua abjuração. O poder deles é unicamente criar rajadas e bolas de fogo. Fogo azul para diabretes e fogo vermelho para imps. [LVL 1]
+  </div>
+
+
+
+<div class="petitdesir01"><p>Contramágica Tenaz: Poderosa magia defensiva que consiste em uma mão invisível consumir a magia lançada contra o infernalista ou segurar alguém que venha lhe atacar fisicamente. Pode barrar ataques de cunho espiritual. [LVL 2]</div>
+
+
+
+
+<div class="petitdesir01"><p>Consagração: O infernalista possui um objeto mítico, uma pulseira, um colar, um anel, qualquer objeto de uso pessoal que acaba sendo consagrado e assim ele é capaz de se tornar uma arma mágica letal. [LVL 2]</div>
+  
+  <div class="petitdesir01"><p>Subjugação do Mal: A partir desse nível o clérigo aprende a escravizar demônios. Caso o clérigo tire erro crítico no poder de um demônio, ele se liberta e passa a ser um inimigo poderoso e errante na RP, deverá tentar subjugar o demônio novamente através desse poder. No nível 6 poderá subjugar um feiticeiro. Sua CD é diminuída em 25% se for um feiticeiro de Pactos Abissais. [LVL 3]</div>
+
+  
+  
+<table>
+<tr>
+<td>
+<div class="petitdesir011">NOME<p></div>
+
+<div class="petitdesir01">FORÇA<p></div>
+
+<div class="petitdesir01">CONSTITUIção <p></div>
+
+<div class="petitdesir01">destreza <p></div>
+
+<div class="petitdesir01">agilidade <p></div>
+
+<div class="petitdesir01">inteligência<p></div>
+
+<div class="petitdesir01">força de vontade <p></div>
+
+<div class="petitdesir01">percepção <p></div>
+
+<div class="petitdesir01">carisma <p></div>
+
+
+
+</td>
+<td>
+
+<div class="petitdesir011">PESO<p></div>
+
+<div class="petitdesir01"><p>05</div>
+
+<div class="petitdesir01"><p>05</div>
+
+<div class="petitdesir01"><p>05</div>
+
+<div class="petitdesir01"><p>05</div>
+
+<div class="petitdesir01"><p>03</div>
+
+<div class="petitdesir01"><p>03</div>
+
+<div class="petitdesir01"><p>02 </div>
+
+<div class="petitdesir01"><p>02</div>
+
+  </td>
+  </tr>
+<td>
+</table>
+
+<p>
+
+</center>
+
