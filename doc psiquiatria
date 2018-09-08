@@ -1,0 +1,432 @@
+<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
+
+<style>.herschcred { width: 500px; text-align: right; font-size: 7px; font-family: calibri; color: #CFCFCF; }
+.herschcred a { color: #CFCFCF; }
+.app { width: 600px; box-shadow: 2px 2px 2px #dbdbdb; background-color: #F8F8FF;  padding: 20px; text-align: left }
+.ap1 { width: 75px; height: 75px; background-image: url('https://i.imgur.com/zJk1xOz.gif'); }
+.ap2 { font-family: bitter; font-style: bold; font-weight: 400; font-size: 18px; padding: 10px; text-transform: uppercase }
+.ap2 f { font-size: 10px; font-family: bitter; text-transform: uppercase; font-weight: bold }
+.ap3 { font-family: bitter; width: 200px; text-align: center; font-style: bold; padding-left: 120px; font-size: 12px; text-transform: uppercase; }
+.aptit { font-family: bitter; font-weight: bold; font-size: 12.5px; padding: 5px; text-transform: uppercase; }
+.apres1 { width: 235px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres2 { width: 120px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres3 { width: 100px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres4 { width: 100px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres5 { width: 240px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.ap4 { width: 250px; height: 150px; font-family: courier new; font-size: 12px }
+.ap4 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap5 { height: 150px; width: 300px; font-family: courier new; font-size: 12px; text-align: justify }
+.ap5 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap6 { font-family: courier new; font-size: 12px; text-align: justify; }
+.ap6 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap7 { width: 140px; height: 150px; font-family: courier new; font-size: 12px }
+.ap7 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap8 { width: 400px; height: 150px; font-family: courier new; font-size: 12px; text-align: justify;}
+.ap9 { background-color: #fff; padding: 5px; width: 100px; heght: 150px; box-shadow: 1px 1px 1px #dbdbdb; margin-right: 20px }
+.ap8 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.apsig { font-size: 33px; font-family: Dynalight; color: #102d4a; }
+.ap10 { width:120px; font-family: courier new; font-size: 11px; text-align: justify; padding: 5px }
+.ap10 b { font-family: bitter; font-weight: bold; font-size: 11px; text-transform: uppercase; }
+
+</style>
+
+<center>
+
+<div class="app">
+
+<table style="margin-left: 30px"><td><div class="ap1"></div></td>
+<td><div class="ap2"><b>SKULD<br>THELEMA</b><br>
+<f>FICHA BÁSICA</f></div></td><td><div class="ap3">CRIATURAS  DAS TREVAS<br>
+enscrivã responsável: <b>Hanna Mäkelä</b>  <br>
+T-SK-430027</div></td></table><p>
+
+<table><td>
+
+<div class="aptit">NOME DE IDENTIFICAÇÃO:</div></td>
+
+<td><div class="apres1">(parte borrada).</div></td>
+
+<td><div class="aptit">NASCIMENTO:</div></td>
+
+<td><div class="apres2">ANO 03 DH</div></td>
+
+
+</table><table>
+
+<td><div class="aptit">SEXO:</div></td>
+
+<td><div class="apres3"> Desconhecido.</div></td>
+
+<td><div class="aptit">ALTURA:</div></td>
+
+<td><div class="apres4">110cm</div></td>
+
+
+</table><table>
+
+<td><div class="aptit">PESO:</div></td>
+
+<td><div class="apres4">13kg</div></td>
+
+<td><div class="aptit">SANGUE:</div></td>
+
+<td><div class="apres4">Desconhecido</div></td>
+
+<td><div class="aptit">ADMISSÃO:</div></td>
+
+<td><div class="apres2">(PART. BORRADA)</div></td>
+
+
+
+</table><table>
+
+<td><div class="aptit">LOCAL DE CAPTURA:</div></td>
+
+<td><div class="apres5">(PART. BORRADA)</div></td>
+
+<td><div class="aptit">OBJETO:</div></td>
+
+<td><div class="apres2">(PART. BORRADA)</div></td>
+
+</table><table>
+
+<td><div class="aptit">CARAVAGIER:</div></td>
+
+<td><div class="apres1">(PART. BORRADA)</div></td>
+
+<td><div class="aptit">ALA:</div></td>
+
+<td><div class="apres2">NORTE</div></td>
+
+</table><p>
+
+<center><div class="ap2"><b>DADOS BÁSICOS</b></div><p>
+
+<table><td><div class="ap4">
+<b>NATURAL DE SKULD: </b>(?)<br>
+<b>VIVE EM GRUPO: </b>(?)<br>
+<b>FAMÍLIA: </b>(?)<br>
+<b>PERIGOSO PARA OUTROS: </b>(?)<br>
+<b>PERIGOSO PARA SI MESMO: </b>(?)<br>
+<b>PRECAUÇÕES ESPECIAIS: </b>(?)*<br>
+<b>REABILITAÇÃO POSSÍVEL: </b>(?)*<br>
+
+</div>
+  </td><td><div class="ap5"><b>ESPECIFICAÇÕES: </b>
+  
+  (PART. BORRADA)
+
+<p>*: preocupações especi-- (parte borrada). 
+<p>*: reabilitação possív-- (parte borrada). ver página 02 deste documento. </div></td></table></center><p>
+
+<div class="ap6"><b>ESTADO MENTAL DE ADMISSÃO: </b>Muito assustada, a criatura chegou de aos prantos presa pelo cavalheiro que a capturou. Ele, violentamente, a fez andar com a arma usada (ver a página 03 deste documento) contra a ferida aberta da criatura, rendendo-a pelos salões da Thelema até a Ala Norte. Lá, a criatura foi aprisionada após testada (ver a página 06 deste documento) em (parte borrada) <p></div>
+
+<center><div class="ap2"><b>APARÊNCIA FÍSICA</b></div><p>
+
+<table>
+
+<td><div class="ap7">
+<b>OLHOS: </b>Pretos.<br>
+<b>CABELOS: </b>S/IND.<br>
+<b>PELE: </b>S/IND.<br>
+<b>CICATRIZES: </b>S/IND.<br>
+<b>MANCHAS: </b>Amareladas.<br>
+<b>FERIDAS: </b>S/IND.<br>
+<b>FRATURAS: </b>Em alguns dentes.
+</div>
+</td><td><div class="ap8"><b>ESPECIFICAÇÕES: </b>(parte borrada).
+
+ </div></td>
+</table></center><p>
+
+
+<br>
+<br>
+
+
+<div class="ap6"><b>ESTADO FÍSICO DE ADMISSÃO: </b>Os (parte borrada) são pálidos e grotescos, ainda que estranhamente atrativos. Alguma deformidade insondável parece se apegar a eles como lepra. Eles não tem dentes e tem olhos pequenos, cansados e misteriosos. Eles carregam um vago cheiro de decomposição, um cheiro que se torna mais pungente com a idade. Os (parte borrada) preferem roupas arcaicas, normalmente pretas e sempre intrincadas.<p></div>
+
+
+</div>
+
+  
+  
+
+
+<br><div class="herschcred"> Pág 01.</div>
+  
+  <p>
+    <p>
+      <p>
+        
+
+</center>
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
+
+<style>.herschcred { width: 500px; text-align: right; font-size: 7px; font-family: calibri; color: #CFCFCF; }
+.herschcred a { color: #CFCFCF; }
+.app { width: 600px; box-shadow: 2px 2px 2px #dbdbdb; background-color: #F8F8FF;  padding: 20px; text-align: left }
+.ap1 { width: 75px; height: 75px; background-image: url('https://i.imgur.com/zJk1xOz.gif'); }
+.ap2 { font-family: bitter; font-style: bold; font-weight: 400; font-size: 18px; padding: 10px; text-transform: uppercase }
+.ap2 f { font-size: 10px; font-family: bitter; text-transform: uppercase; font-weight: bold }
+.ap3 { font-family: bitter; width: 200px; text-align: center; font-style: bold; padding-left: 120px; font-size: 12px; text-transform: uppercase; }
+.aptit { font-family: bitter; font-weight: bold; font-size: 12.5px; padding: 5px; text-transform: uppercase; }
+.apres1 { width: 235px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres2 { width: 120px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres3 { width: 100px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres4 { width: 100px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres5 { width: 240px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.ap4 { width: 250px; height: 150px; font-family: courier new; font-size: 12px }
+.ap4 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap5 { height: 150px; width: 300px; font-family: courier new; font-size: 12px; text-align: justify }
+.ap5 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap6 { font-family: courier new; font-size: 12px; text-align: justify; }
+.ap6 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap7 { width: 140px; height: 150px; font-family: courier new; font-size: 12px }
+.ap7 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap8 { width: 400px; height: 150px; font-family: courier new; font-size: 12px; text-align: justify;}
+.ap9 { background-color: #fff; padding: 5px; width: 100px; heght: 150px; box-shadow: 1px 1px 1px #dbdbdb; margin-right: 20px }
+.ap8 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.apsig { font-size: 33px; font-family: Dynalight; color: #102d4a; }
+.ap10 { width:120px; font-family: courier new; font-size: 11px; text-align: justify; padding: 5px }
+.ap10 b { font-family: bitter; font-weight: bold; font-size: 11px; text-transform: uppercase; }
+
+</style>
+
+<center>
+
+<div class="app">
+
+<table style="margin-left: 30px"><td><div class="ap1"></div></td>
+<td><div class="ap2"><b>SKULD<br>THELEMA</b><br>
+<f>FICHA BÁSICA</f></div></td><td><div class="ap3">CRIATURAS  DAS TREVAS<br>
+enscrivã responsável: <b>Hanna Mäkelä</b>  <br>
+T-SK-430027</div></td></table><p>
+
+
+
+<center><div class="ap2"><b>A FADA DO DENTE</b></div><p>
+
+<table><td><div class="ap4">
+<b>TIPO: </b>(?)<br>
+<b>VIVE EM GRUPO: </b>(?)<br>
+<b>FAMÍLIA: </b>(?)<br>
+<b>PERIGOSO PARA OUTROS: </b>(?)<br>
+<b>PERIGOSO PARA SI MESMO: </b>(?)<br>
+<b>PRECAUÇÕES ESPECIAIS: </b>(?)*<br>
+<b>REABILITAÇÃO POSSÍVEL: </b>(?)*<br>
+
+</div>
+  </td><td><div class="ap5"><b>ESPECIFICAÇÕES: </b>
+  
+  (PART. BORRADA)
+
+<p>*: preocupações especi-- (parte borrada). 
+<p>*: reabilitação possív-- (parte borrada). ver página 02 deste documento. </div></td></table></center><p>
+
+<div class="ap6"><b>ESTADO MENTAL DE ADMISSÃO: </b>Muito assustada, a criatura chegou de aos prantos presa pelo cavalheiro que a capturou. Ele, violentamente, a fez andar com a arma usada (ver a página 03 deste documento) contra a ferida aberta da criatura, rendendo-a pelos salões da Thelema até a Ala Norte. Lá, a criatura foi aprisionada após testada (ver a página 06 deste documento) em (parte borrada) <p></div>
+
+<center><div class="ap2"><b>APARÊNCIA FÍSICA</b></div><p>
+
+<table>
+
+<td><div class="ap7">
+<b>OLHOS: </b>Pretos.<br>
+<b>CABELOS: </b>S/IND.<br>
+<b>PELE: </b>S/IND.<br>
+<b>CICATRIZES: </b>S/IND.<br>
+<b>MANCHAS: </b>Amareladas.<br>
+<b>FERIDAS: </b>S/IND.<br>
+<b>FRATURAS: </b>Em alguns dentes.
+</div>
+</td><td><div class="ap8"><b>ESPECIFICAÇÕES: </b>(parte borrada).
+
+ </div></td>
+</table></center><p>
+
+
+<br>
+<br>
+
+
+<div class="ap6"><b>ESTADO FÍSICO DE ADMISSÃO: </b>Os (parte borrada) são pálidos e grotescos, ainda que estranhamente atrativos. Alguma deformidade insondável parece se apegar a eles como lepra. Eles não tem dentes e tem olhos pequenos, cansados e misteriosos. Eles carregam um vago cheiro de decomposição, um cheiro que se torna mais pungente com a idade. Os (parte borrada) preferem roupas arcaicas, normalmente pretas e sempre intrincadas.<p></div>
+
+
+</div>
+
+  
+  
+
+
+<br><div class="herschcred"> <a href="http://epifania.jcink.net/index.php?showuser=61">Pág. 02</a></div>
+
+</center>
+
+<p>
+  <p>
+    <p>
+      
+      <link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
+
+<style>.herschcred { width: 500px; text-align: right; font-size: 7px; font-family: calibri; color: #CFCFCF; }
+.herschcred a { color: #CFCFCF; }
+.app { width: 600px; box-shadow: 2px 2px 2px #dbdbdb; background-color: #F8F8FF;  padding: 20px; text-align: left }
+.ap1 { width: 75px; height: 75px; background-image: url('https://i.imgur.com/zJk1xOz.gif'); }
+.ap2 { font-family: bitter; font-style: bold; font-weight: 400; font-size: 18px; padding: 10px; text-transform: uppercase }
+.ap2 f { font-size: 10px; font-family: bitter; text-transform: uppercase; font-weight: bold }
+.ap3 { font-family: bitter; width: 200px; text-align: center; font-style: bold; padding-left: 120px; font-size: 12px; text-transform: uppercase; }
+.aptit { font-family: bitter; font-weight: bold; font-size: 12.5px; padding: 5px; text-transform: uppercase; }
+.apres1 { width: 235px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres2 { width: 120px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres3 { width: 100px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres4 { width: 100px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.apres5 { width: 240px; font-family: courier new; font-size: 12px; border-bottom: 1px dotted #000; }
+.ap4 { width: 250px; height: 150px; font-family: courier new; font-size: 12px }
+.ap4 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap5 { height: 150px; width: 300px; font-family: courier new; font-size: 12px; text-align: justify }
+.ap5 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap6 { font-family: courier new; font-size: 12px; text-align: justify; }
+.ap6 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap7 { width: 140px; height: 150px; font-family: courier new; font-size: 12px }
+.ap7 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.ap8 { width: 400px; height: 150px; font-family: courier new; font-size: 12px; text-align: justify;}
+.ap9 { background-color: #fff; padding: 5px; width: 100px; heght: 150px; box-shadow: 1px 1px 1px #dbdbdb; margin-right: 20px }
+.ap8 b { font-family: bitter; font-weight: bold; font-size: 12px; text-transform: uppercase; }
+.apsig { font-size: 33px; font-family: Dynalight; color: #102d4a; }
+.ap10 { width:120px; font-family: courier new; font-size: 11px; text-align: justify; padding: 5px }
+.ap10 b { font-family: bitter; font-weight: bold; font-size: 11px; text-transform: uppercase; }
+
+</style>
+
+<center>
+
+<div class="app">
+
+<table style="margin-left: 30px"><td><div class="ap1"></div></td>
+<td><div class="ap2"><b>SKULD<br>THELEMA</b><br>
+<f>FICHA BÁSICA</f></div></td><td><div class="ap3">CRIATURAS  DAS TREVAS<br>
+enscrivã responsável: <b>Hanna Mäkelä</b>  <br>
+T-SK-430027</div></td></table><p>
+
+<table><td>
+
+<div class="aptit">NOME DE IDENTIFICAÇÃO:</div></td>
+
+<td><div class="apres1">(parte borrada).</div></td>
+
+<td><div class="aptit">NASCIMENTO:</div></td>
+
+<td><div class="apres2">ANO 03 DH</div></td>
+
+
+</table><table>
+
+<td><div class="aptit">SEXO:</div></td>
+
+<td><div class="apres3"> Desconhecido.</div></td>
+
+<td><div class="aptit">ALTURA:</div></td>
+
+<td><div class="apres4">110cm</div></td>
+
+
+</table><table>
+
+<td><div class="aptit">PESO:</div></td>
+
+<td><div class="apres4">13kg</div></td>
+
+<td><div class="aptit">SANGUE:</div></td>
+
+<td><div class="apres4">Desconhecido</div></td>
+
+<td><div class="aptit">ADMISSÃO:</div></td>
+
+<td><div class="apres2">(PART. BORRADA)</div></td>
+
+
+
+</table><table>
+
+<td><div class="aptit">LOCAL DE CAPTURA:</div></td>
+
+<td><div class="apres5">(PART. BORRADA)</div></td>
+
+<td><div class="aptit">OBJETO:</div></td>
+
+<td><div class="apres2">(PART. BORRADA)</div></td>
+
+</table><table>
+
+<td><div class="aptit">CARAVAGIER:</div></td>
+
+<td><div class="apres1">(PART. BORRADA)</div></td>
+
+<td><div class="aptit">ALA:</div></td>
+
+<td><div class="apres2">NORTE</div></td>
+
+</table><p>
+
+<center><div class="ap2"><b>DADOS BÁSICOS</b></div><p>
+
+<table><td><div class="ap4">
+<b>NATURAL DE SKULD: </b>(?)<br>
+<b>VIVE EM GRUPO: </b>(?)<br>
+<b>FAMÍLIA: </b>(?)<br>
+<b>PERIGOSO PARA OUTROS: </b>(?)<br>
+<b>PERIGOSO PARA SI MESMO: </b>(?)<br>
+<b>PRECAUÇÕES ESPECIAIS: </b>(?)*<br>
+<b>REABILITAÇÃO POSSÍVEL: </b>(?)*<br>
+
+</div>
+  </td><td><div class="ap5"><b>ESPECIFICAÇÕES: </b>
+  
+  (PART. BORRADA)
+
+<p>*: preocupações especi-- (parte borrada). 
+<p>*: reabilitação possív-- (parte borrada). ver página 02 deste documento. </div></td></table></center><p>
+
+<div class="ap6"><b>ESTADO MENTAL DE ADMISSÃO: </b>Muito assustada, a criatura chegou de aos prantos presa pelo cavalheiro que a capturou. Ele, violentamente, a fez andar com a arma usada (ver a página 03 deste documento) contra a ferida aberta da criatura, rendendo-a pelos salões da Thelema até a Ala Norte. Lá, a criatura foi aprisionada após testada (ver a página 06 deste documento) em (parte borrada) <p></div>
+
+<center><div class="ap2"><b>APARÊNCIA FÍSICA</b></div><p>
+
+<table>
+
+<td><div class="ap7">
+<b>OLHOS: </b>Pretos.<br>
+<b>CABELOS: </b>S/IND.<br>
+<b>PELE: </b>S/IND.<br>
+<b>CICATRIZES: </b>S/IND.<br>
+<b>MANCHAS: </b>Amareladas.<br>
+<b>FERIDAS: </b>S/IND.<br>
+<b>FRATURAS: </b>Em alguns dentes.
+</div>
+</td><td><div class="ap8"><b>ESPECIFICAÇÕES: </b>(parte borrada).
+
+ </div></td>
+</table></center><p>
+
+
+<br>
+<br>
+
+
+<div class="ap6"><b>ESTADO FÍSICO DE ADMISSÃO: </b>Os (parte borrada) são pálidos e grotescos, ainda que estranhamente atrativos. Alguma deformidade insondável parece se apegar a eles como lepra. Eles não tem dentes e tem olhos pequenos, cansados e misteriosos. Eles carregam um vago cheiro de decomposição, um cheiro que se torna mais pungente com a idade. Os (parte borrada) preferem roupas arcaicas, normalmente pretas e sempre intrincadas.<p></div>
+
+
+</div>
+
+  
+  
+
+
+<br><div class="herschcred"> <a href="http://epifania.jcink.net/index.php?showuser=61">Pág. 03</a></div>
+
+</center>
+
+
+
