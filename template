@@ -1,0 +1,42 @@
+[dohtml]<center>  
+
+<link href='https://fonts.googleapis.com/css?family=Playfair Display SC:100,200,300,400,500,600,700,900' rel='stylesheet' type='text/css'>
+
+<style type="text/css">
+
+  
+   .titleoh {color: #000; text-transform:uppercase;text-align: right; font-weight:700;font-size:15px;letter-spacing:3px;padding-top:5px;font-family:Playfair Display SC; }
+
+   .titleoh:before { content: ''; width: 70px; height: 1px; background: #5F9F9F; display: inline-block; vertical-align: middle; margin-right: 10px; }
+
+   .circleim{ margin-top: 30px; width:130px;height:130px;border-radius:50%;-webkit-border-radius:50%;}
+
+   .taggage {margin-top: -110px; margin-left: 250px; color: #5F9F9F; width: 160px; text-transform:uppercase;text-align: justify; font-weight:500;font-size:10px;letter-spacing:3px;padding-top:5px;font-family:Playfair Display SC; }
+
+.bobb { width:410px; font-family: arial; font-size: 11px; text-align: justify; background-color:#fff; padding:60px; color: #000; box-shadow:2px 2px 3px #ccc; }
+
+.bobb b {color: #5F9F9F; font-size: 13px;}
+
+.bobb i {color: #5F9F9F; font-size: 13px;}
+
+
+</style>
+
+
+<div class="bobb">
+
+<div class="titleoh">short line of lyrics here</div>
+
+<p>
+
+your post goes here!
+
+
+
+<img src="130 BY 130 IMAGE GOES HERE" class="circleim">
+
+<div class="taggage">put some more lyrics here best to keep it kinda short</div>
+   </div>
+<div style= "margin-top: 3px; text-align: center; font-family: times; font-size: 10px; background-color:transparent; color:#000;">[URL=http://cttw.b1.jcink.com/index.php?showuser=136]THANKS[/URL]</div>
+
+</center>[/dohtml]
