@@ -1,0 +1,163 @@
+[dohtml]
+
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<style>
+@import url("https://fonts.googleapis.com/css?family=Oswald|Roboto:400,700");
+  
+  
+bodyyy {  width: 400px; 
+  padding-left: 200px; 
+  padding-top: 50px; 
+  line-height: 1.5rem;
+  font-color: #000;
+}
+ 
+G2, G3, G4, G5, G6 {
+  font-family: Times New Roman; sans-serif;
+    font-size: 0.94rem;
+    text-transform: lowercase;}
+ 
+G1 {
+  font-family: Montserrat, sans-serif;
+  font-size: .90rem;
+  text-transform: uppercase;
+  margin-bottom: .5em;
+}
+ 
+p {
+  font-family: Times New Roman, sans-serif;
+  text-transform: lowercase;
+  margin-bottom: .10em;
+}
+ 
+.container {
+  max-width: 400px;
+  width: 90%;
+  margin: 0 auto;
+}
+ 
+.timeline-item {
+  padding: 3em 2em 2em;
+  position: relative;
+  color: rgba(0, 0, 0, 0.9);
+  border-left: 2px solid rgba(0, 0, 0, 0.9);
+}
+
+.timeline-item p {
+  font-size: .88rem;
+  font-family: Times New Roman, sans-serif;
+}
+  
+.timeline-item::before {
+  content: attr(date-is);
+  position: absolute;
+  left: 290px;
+  font-weight: bold;
+  top: 10px;
+  display: block;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  font-size: 0.5rem;
+  padding: 1px 3px;
+  border: 1px solid black;
+}
+.timeline-item::after {
+  width: 10px;
+  height: 10px;
+  display: block;
+  top: 1em;
+  position: absolute;
+  left: -7px;
+  border-radius: 10px;
+  content: '';
+  border: 1.4px solid rgba(0, 0, 0, 0.9);
+  background: white;
+}
+  
+  
+.timeline-item:last-child {
+  -o-border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 60%, transparent) 1 60%;
+     border-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.7) 60%, transparent) 1 60%;
+     border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 60%, transparent) 1 60%;
+}
+ 
+ 
+ 
+ 
+</style>
+ 
+ 
+<div class="container">
+	
+	<div class="timeline-item" date-is='20-07-1990'>
+		<G1>ana banana. </G1>
+		<p>
+			ana banana. 
+		</p>
+	</div>
+	
+	<div class="timeline-item" date-is='20-07-1990'>
+		<G1>ana banana. </G1>
+		<p>
+			ana banana.
+		</p>
+	</div>
+	
+  	<div class="timeline-item" date-is='11-08-267'>
+		<G1>nascimento.</G1>
+		<p>
+			em jara bla bla bla.  
+		</p>
+	</div>
+  
+  	<div class="timeline-item" date-is='11-08-267'>
+		<G1>nascimento.</G1>
+		<p>
+			em jara bla bla bla.  
+		</p>
+	</div>
+  	<div class="timeline-item" date-is='11-08-267'>
+		<G1>nascimento.</G1>
+		<p>
+			em jara bla bla bla.  
+		</p>
+	</div>
+  	<div class="timeline-item" date-is='11-08-267'>
+		<G1>nascimento.</G1>
+		<p>
+			em jara bla bla bla.  
+		</p>
+	</div>
+  	<div class="timeline-item" date-is='11-08-267'>
+		<G1>nascimento.</G1>
+		<p>
+			em jara bla bla bla.  
+		</p>
+	</div>
+  	<div class="timeline-item" date-is='11-08-267'>
+		<G1>nascimento.</G1>
+		<p>
+			em jara bla bla bla.  
+		</p>
+	</div>
+  	<div class="timeline-item" date-is='11-08-267'>
+		<G1>nascimento.</G1>
+		<p>
+			em jara bla bla bla.  
+		</p>
+	</div>
+	<div class="timeline-item" date-is='11-08-267'>
+		<G1>AKIRA E 
+      <BR>O DRAGÃO BRANCO.</G1>
+		<p>
+			em jara bla bla bla.  
+		</p>
+	</div>
+	
+</div>
+
+[/dohtml]
+ 
+ 
+ 
