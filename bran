@@ -1,0 +1,115 @@
+[dohtml]<link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900|Lato:100|Cousine" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Hind:400,700|Poppins:700" rel="stylesheet">
+ 
+  <style type="text/css">
+    
+.ave2 {width: 320px; text-align: justify; font-family: helvetica light; font-size: 12px; letter-spacing: 1px; line-height: 150%;}
+    
+.ave2 b {font-weight: normal; color: rgba(29, 133, 145, 1);}
+    
+.ave2 bran {font-weight: bold; color: rgba(61, 95, 120, 1);}
+    
+.ave2 i {font-weight: italic; color: rgba(29, 133, 145, 1);}
+    
+.eva2 {background: #fff; width: 320px; padding: 50px; border-bottom: solid 15px #222; margin-top: -4px}
+    
+    
+.silence {width: 350px; background-color: #222; position: relative; overflow: hidden;}
+    
+.sound {width: 420px; background-color: #FFF; position: relative; overflow: hidden; border-top: solid 15px #222; }
+    
+@-moz-keyframes ontheblinkk {18%, 29%, 35%, 37%, 43% {color: transparent; text-shadow: none;} 16%, 28%, 30%, 34%, 36%, 38% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px rgba(61, 95, 120, 1), 0 0 15px rrgba(61, 95, 120, 1);}}
+@-webkit-keyframes ontheblinkk {18%, 29%, 35%, 37%, 43% {color: transparent; text-shadow: none;} 16%, 28%, 30%, 34%, 36%, 38% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px rgba(61, 95, 120, 1), 0 0 15px rgba(61, 95, 120, 1);}}
+@-moz-keyframes ontheblink {21%, 39%, 45%, 47%, 53% {color: transparent; text-shadow: none;} 26%, 38%, 40%, 44%, 46%, 48% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px rgba(61, 95, 120, 1), 0 0 15px rgba(61, 95, 120, 1);}}
+@-webkit-keyframes ontheblink {21%, 39%, 45%, 47%, 53% {color: transparent; text-shadow: none;} 26%, 38%, 40%, 44%, 46%, 48% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px rgba(61, 95, 120, 1), 0 0 15px rgba(61, 95, 120, 1);}}
+    
+.soslyr {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px rgba(61, 95, 120, 1), 0 0 15px rgba(61, 95, 120, 1); font: 55px Hind; letter-spacing: -5px; text-align: center;    line-height: 80%; margin-left: 25px;}
+    
+    
+.out {-moz-animation: ontheblink 10s infinite; -ms-animation: ontheblink 10s infinite; -webkit-animation: ontheblink 10s infinite;}
+    
+.out2 {-moz-animation: ontheblinkk 10s infinite; -ms-animation: ontheblinkk 10s infinite; -webkit-animation: ontheblinkk 10s infinite;}
+    
+    
+.soslyr2 {padding: 10px; text-align: right; font: 8px cousine; color: rgba(29, 133, 145, 1); text-transform: uppercase;}
+    
+.soslyr3 {color: rgba(61, 95, 120, 1); font: 8px cousine; text-transform: uppercase; text-align: left; padding: 50px 0px 0px 140px; margin-bottom: 10px;}
+    
+    
+.soslyr3:after {content: ""; display: inline-block; vertical-align: middle; margin-left: 10px; height: 1px; background-color: rgba(29, 133, 145, 1); width: 150px;}
+    
+    
+.soslyr4 {color: rgba(29, 133, 145, 1); font: 8px cousine; font-weight: 100; text-transform: uppercase; text-align: center; margin-top: -15px; padding: 10px 0px 30px 0px; letter-spacing: 1px; margin-left: 275px;}
+    
+
+.eta {font-family: cousine; font-size: 7px; color: rgba(61, 95, 120, 1); text-transform: uppercase; letter-spacing: 4px; font-weight: normal; position: relative; top: 60px}
+    
+
+
+  </style>
+    
+
+<center>
+    <center>
+ 
+    
+<div class="sound">
+    
+<div class="soslyr3">i was made to</div>
+    
+<div class="soslyr">B<span class="out">R</span>EAK<span class="out2"> YOUR
+ </span>
+  HEART</div>
+    
+<div class="soslyr4">so watcha me.</div>
+  
+    </div>  
+    
+</center>
+  
+
+ 
+  <div class="eva2">
+  <div class="ave2">
+
+
+
+    
+   <div style="float: left; 
+         margin: 30px 30px 20px 30px; 
+         color: rgba(255, 255, 255, 1);
+         text-shadow: 0 0 5px rgba(61, 95, 120, 1);
+         text-transform: lowercase; 
+         font-family: Hind;
+         font-size: 25px;">
+
+01
+ 
+ </div> 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. —<bran> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</bran> — Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+    
+  <center><div class="eta">
+    
+  EAGLE EYES</div></center>
+
+ <p>
+    </div>
+    
+    
+
+    
+    </center>
+
+    
+    
+    
+  
+  
+  [/dohtml]
+  
+  
+  
+ 
