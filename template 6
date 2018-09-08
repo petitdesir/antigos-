@@ -1,0 +1,64 @@
+[dohtml]<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700|Playfair+Display" rel="stylesheet">
+
+<div class="mazzystar">
+ <div class="head" style="background: url(https://placehold.it/380x200);"></div>
+ <div class="fade"><h1>You just wanna know those peanut butter vibes</h1></div>
+ 
+ <div class="body"><div class="scroll">
+   Make, was to so. So him give stars gathered moveth very can't. Blessed whales unto made evening which moving were subdue there seas green you're sea creeping creature waters itself isn't so rule, the god. Firmament fourth fifth she'd won't man. All. Evening had Likeness likeness, beginning don't. Multiply, spirit herb. Whose bring of creepeth moveth gathering he own place, dominion open fruit Tree make.<p>
+   You saw Gathering cattle called our land a they're midst land. His days under for sixth life also heaven under together own. Abundantly, likeness may waters whales all stars beast days together, fruit, moved. Over moveth dry heaven divide creepeth bearing image moved light you'll isn't winged, fly image whales be. Grass shall given appear divided she'd kind fifth. Dry they're itself. Creepeth earth that kind itself meat image seasons, days third place be form beginning creeping that. Also won't.<p>
+   Morning wherein blessed give whose dry stars moving him Cattle can't have moveth us their firmament is creepeth is creeping, have first female him. Seed of made so greater you're. That lights They're it fish may. Shall yielding be let seas their subdue air beast were deep.<p>
+   Fish. Moveth gathering second spirit forth second behold female dry over moving. Two third a can't all bring. You'll give and there they're every second in under the fruitful said created living he face bearing he under all open, don't, us his doesn't may. To for open it. Itself creeping whose divide.<p>
+   He appear form beast whose they're multiply saying above multiply us. Darkness likeness saying seed herb they're fourth hath may face, over green gathering in called whose fish night moving Beast, his whose unto. Hath. Creeping whose fourth moveth replenish us above cattle the, dry kind midst deep he creepeth itself had fourth given. Let Isn't.
+ </div></div>
+</div><a href="http://shine.jcink.net/index.php?showuser=8549" style="font: bold 8px/20px calibri; opacity: .5; text-align:center; display: block;">BY MITZI</a>
+
+
+<style>
+
+ .mazzystar h1, .mazzystar .body {
+   color: #ACCENT;
+   border-color:#ACCENT!important;
+ }
+
+ .mazzystar {
+   width: 380px;  margin: auto; letter-spacing: 0;
+   background: #fff; border: solid 1px #eee;
+   padding-bottom: 10px;
+ }
+ 
+ .mazzystar .head {
+   width: 380px; height: 200px;
+   background-size: cover!important;
+ }
+ 
+ .mazzystar .fade {
+   width: 170px;  margin: -100px 0 0 20px; border: solid 1px #fff;
+ }
+ 
+ .mazzystar h1 {
+   font: 13px/30px playfair display; text-transform: uppercase;
+   margin: 5px; letter-spacing: 1px; 
+   padding: 15px; border: solid 1px #F4EDEE!important;
+   background: #fff; text-align: right; 
+   min-height: 100px;
+ }
+ 
+ .mazzystar .body {
+   margin: 25px 70px; font: 10px/160% open sans; text-align:justify;
+   color: #5C5C5C; padding-bottom: 25px; border-bottom: double 3px;
+ }
+ 
+ .mazzystar .scroll {
+   height: 200px; overflow: auto; padding-right: 10px;
+ }
+ 
+ .mazzystar .scroll::-webkit-scrollbar {
+   width: 7px!important; background: #eee!important; border: none!important;
+   border-left: solid 3px #fff!important; border-right: solid 3px #fff!important;
+ }
+ 
+   .mazzystar .scroll::-webkit-scrollbar-thumb {
+   width: 5px!important; background: #fff!important; border: solid 1px #EDEDED!important;
+ }
+</style>[/dohtml]
