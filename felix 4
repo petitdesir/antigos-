@@ -1,0 +1,196 @@
+[dohtml]
+ 
+<center>
+
+<div class="persephone01">
+
+<div class="persephone02">
+
+<div class="persephone03">
+
+<center>
+
+<center><br />
+
+<div class="persephone09">Lord of Bones</div>
+ 
+<div class="persephone10"><p> I AM FORMED OF THE DEAD. I AM THE HARVESTER OF THE SOUL MEAT AND I SUCK THE LIVES FROM AROUND MY BED. MY OWN TWO SONS, I GAVE THEM BREATH AND I FILLED THEIR LIVING CORPSES WITH MY BILE. WHAT HUMANITY I KNEW, I HAVE LONG FORGOTTEN... FOR ME, ETERNITY IS NOTHING, BUT A SHORT WHILE.
+
+  <br><b><center>• MY NAME IS NECROPOLIS • </center></b></div>
+
+<p>
+<div class="persephone04">
+ 
+</center>
+ 
+<p>
+
+<div class="persephone05">
+
+<div class="variables">
+ 
+O  espírito de alix ficou imóvel, observando beau dormir por minutos a fim. Seu rosto parecia calmo e tinha uma cor muito bela por conta da iluminação colorida do clerestório.
+<p>
+Ela ficou assim, imóvel, sentada perto do seu vitral; e então, voltou sua visão para o mesmo. Sua figura também muito bela, estava próxima ao lado do buraco que pertenceria a imagem de Beau. Ela sabia que Félix logo o colocaria em um lugar ao lado dos seus.
+
+
+<p>
+</ br></ br>
+<div class="persephone06">
+
+i. 
+
+</div>
+    </div>
+        </div>
+            </div>
+                </div>
+    
+<div class="persephone11">
+
+</ br>
+                    </div>
+                        </div>
+                        
+                            
+
+</center>
+
+ 
+<style type="text/css">
+ 
+ 
+ 
+.persephone01 { width:520px; 
+                background-color: #000; 
+                border-bottom: 0px solid #000; 
+                border-top: 60px solid #000;
+}
+ 
+.persephone02 { width:400px; 
+                padding: 30 0 30 0px; 
+                background-color: #FFF; 
+}
+ 
+.persephone03 { width:400px; 
+                text-align:justify;
+}
+ 
+ 
+.persephone04 { width: 300px; 
+                font-family: 'Playfair Display', serif; 
+                font-size: 8px; 
+                letter-spacing: 1px; 
+                color: #000; 
+                text-transform: none; 
+                text-align: justify; 
+                line-height:110%; 
+                padding-bottom:15px;
+}
+ 
+ 
+.persephone05 { width: 300px;
+                font-family: 'Pragati Narrow', sans-serif;
+                font-size: 12.5px;  
+                line-height: 120%;
+                text-align: justify;
+}
+ 
+
+.persephone06 {text-align: center; 
+                font-family: Playfair Display;
+                font-size: 37px; 
+                text-transform: uppercase; 
+                color: #000; 
+                letter-spacing: 2px; 
+                line-height: 100%; 
+                padding-top: 10px;
+                padding-bottom: 20px;
+}                  
+                    
+
+.persephone08 { width:400px; 
+                border-bottom: 0px solid #F8F8F8;
+    
+}
+
+.persephone09 {text-align: center; 
+                font-family: 'UnifrakturMaguntia', cursive;
+                font-size: 50px; 
+                font-weight: 800; 
+                text-transform: lowercase; 
+                color: #000; 
+                letter-spacing: 0px; 
+                line-height: 100%;
+                padding-top: 50px;
+}
+    
+.persephone10 {width: 220px;
+                text-align: justify; 
+                font-family: 'Pragati Narrow', sans-serif;
+                font-size: 10px; 
+                text-transform: lowercase; 
+                color: #000; 
+                letter-spacing: 0px; 
+                line-height: 90%; 
+                padding-bottom: 10px;
+}
+
+.persephone11 {width: 520px;
+                height: 60px;
+                background-color: #000;
+                -webkit-background-size: auto 200px;
+                background-size: auto 200px;
+                background-position: center center;
+}
+
+.persephone110 {text-align: center; 
+                font-family: 'Playfair Display', serif;
+                font-size: 10.5px; 
+                text-transform: lowercase; 
+                color: #000; 
+                letter-spacing: 0px; 
+                line-height: 0%; 
+                padding-bottom: 20px;
+                padding-top: 20px;
+
+}
+
+.variables minerva { color: #000; 
+                    font-weight:bold;
+                    font-family: arial narrow;
+                    font-size: 12px;
+}
+                    
+.variables felix { color: #CD3700; 
+                    font-size: 11.5px;
+                    font-weight:bold; }
+
+.variables alix { color: #B22222; 
+                    font-weight:bold;
+                    font-family: arial narrow;
+                    font-size: 12px;
+}
+
+/ outras imagens /
+
+http://i65.tinypic.com/2rw0v2d.png
+http://i63.tinypic.com/sepymp.png
+http://i68.tinypic.com/2crm0sz.png
+http://i64.tinypic.com/2r5tf6o.png
+http://i63.tinypic.com/21oq802.png
+
+/ testes aqui /
+
+http://codepen.io
+
+
+</style>
+
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=UnifrakturMaguntia" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Pragati+Narrow" rel="stylesheet">
+
+
+
+[/dohtml]
