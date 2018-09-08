@@ -1,0 +1,231 @@
+[dohtml]
+
+<style type="text/css">
+ 
+  
+.variables i11 {     font-size: 14px; 
+                    font-weight:bold;
+}
+  
+  .variables i22 { font-size: 24px; 
+                    font-weight:bold;
+}
+  
+  .variables i33 { font-size: 10px; 
+                    font-weight:bold;
+}
+  
+  .variables i44 { font-size: 8px; 
+                    font-weight:bold;
+}
+
+</style>
+<div class="variables">  
+
+<link href="https://fonts.googleapis.com/css?family=Lekton:400,700|Playfair+Display:400,400i,700" rel="stylesheet"><link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+
+<center>
+<div id="thtabcontainer">
+
+<table width="460px" cellspacing="5px" cellpadding="0px" style="margin-bottom:-20px;"><tr><td class="thtabname" valign="bottom">
+
+IRON
+
+</td><td class="thtabimage" width="260px">
+<img src="http://placehold.it/260x250">
+</td></tr></table>
+
+<div class="tabs">
+  
+ <div class="tab">
+     <input type="radio" id="tab-1" name="tab-group-1" checked>
+     <label for="tab-1">I</label>
+     
+     <div class="thcontent">
+      <div class="thfirsttab">
+
+<b>su·per·sti·tion </b>
+<br>ˌso͞opərˈstiSH(ə)n/
+        
+</div><div class="thfirsttabcredit">
+PETIT | 25 OUTONOS.
+</div>
+     </div> 
+ </div>
+  
+ <div class="tab">
+     <input type="radio" id="tab-2" name="tab-group-1">
+     <label for="tab-2">II</label>
+     
+     <div class="thcontent">
+       
+       <div class="thapprow5" colspan="2">Atributos</div>
+       
+       <p><div class="lorytb1">Força: 00 <span>--------</span> Constituição: 00</div>
+       <div class="lorytb4"></div>
+
+<div class="lorytb3">Destreza: 00 <span>-------</span> Agilidade: 00</div>
+       <div class="lorytb4"></div>
+       
+       <div class="lorytb3">Inteligência: 00 <span>----</span> Força de vontade: 00</div>
+       <div class="lorytb4"></div>
+       
+       <div class="lorytb3">Percepção: 00 <span>--------</span> Carisma: 00</div>
+       <div class="lorytb4"></div>
+       
+       
+         <table class="thapptable" width="350px" cellspacing="5px" cellpadding="0px">	
+         <tr><td class="thapprow5" colspan="2">PERSONAGEM</td></tr>
+
+           <tr>
+<td width="100px" class="thapprow">Classe</TD>
+<td width="250px" class="thappcol"><span>--</span>COLOQUE AQUI A CLASSE</TD>
+            </tr></table>
+   <table class="thapptable" width="350px" cellspacing="5px" cellpadding="0px">	
+   <tr>
+<td width="100px" class="thapprow">Raça</TD>
+<td width="250px" class="thappcol"><span>--</span>COLOQUE AQUI A RAÇA</TD>
+            </tr></table>
+   <table class="thapptable" width="350px" cellspacing="5px" cellpadding="0px">	
+ 
+ <tr>
+<td width="100px" class="thapprow">Idade</TD>
+<td width="250px" class="thappcol"><span>--</span>PREENCHA AQUI A IDADE</TD>
+            </tr></table>
+   <table class="thapptable" width="350px" cellspacing="5px" cellpadding="0px">	
+<tr>
+<td width="100px" class="thapprow">Cidade </TD>
+<td width="250px" class="thappcol"> <span>--</span>CIDADE DE NASCIMENTO AQUI</TD>
+            </tr></table>
+   <table class="thapptable" width="350px" cellspacing="5px" cellpadding="0px">	
+<tr>
+<td width="100px" class="thapprow">Guilda</TD>
+<td width="250px" class="thappcol"><span>--</span>SE POSSUIR COLOQUE GUILDA</TD>
+            </tr>
+         </table>
+     </div> 
+ </div>
+  
+ <div class="tab">
+     <input type="radio" id="tab-3" name="tab-group-1">
+     <label for="tab-3">III</label>
+     
+     <div class="thcontent">
+         
+<div class="thappcontent"><p>
+  <div class="thapprow4">Personalidade</div><br>
+ 
+     Use este espaço para descrever um pouco da personalidade do seu personagem da forma como preferir.
+
+ <br>  <br>  <br><p><div class="thapprow4">História</div><br>
+ 
+<b>su·per·sti·tion</b><br>
+ˌso͞opərˈstiSH(ə)n/
+<p>
+<I>noun</I><i44>
+excessively credulous belief in and reverence for supernatural beings.
+<i22><b>Sin:</b>	unfounded belief, credulity, fallacy, delusion, illusion; </i22>
+a widely held but unjustified belief in supernatural causation leading to certain consequences of an action or event, or a practice based on such a belief.<p>
+plural noun: <b>superstitions</b><p>
+“<I>she touched her locket for luck, a superstition she had had since childhood</I>"<p>
+
+<i22>
+<b>Sin:</b>	myth, belief, old wives' tale; 
+legend, story
+"the old superstitions held by sailors"
+</i22>
+
+
+<p>
+
+
+
+</div>
+     </div> 
+ </div>
+
+ <div class="tab">
+     <input type="radio" id="tab-4" name="tab-group-1">
+     <label for="tab-4">IV</label>
+     
+     <div class="thcontent">
+         <div class="thappcontent1"><p>
+  <div class="thapprow4">Habilidades de Classe</div><br>
+
+
+Coloque aqui as habilidades da classe escolhida.
+
+
+      <br><br><div class="thapprow4">Habilidades de Raça</div><br>
+
+
+
+           <b>Gênio:</b> Para se tornar um gênio, o humano precisará fazer um pacto ou ser vítima do poder de um feiticeiro. Quando isso acontece, o Gênio se torna escravo de um objeto em particular (a escolha do player) e quem o possuir o terá controle sobre ele. O gênio não poderá se afastar mais de 100 metros do objeto, se for da vontade do mestre, ele ficará preso dentro do objeto por tempo ilimitado. Se o mestre se livrar do objeto ou não quiser mais, o gênio ficará preso até que outro mestre encontre o objeto e o invoque. Podem viver infinitamente a menos que sejam mortos por combate.<p>
+
+           <b>Vantagem:</b> Uma vez por rp, o gênio poderá conceder um dos três desejos a um aliado: um bonus de +5 na ação, ou ignorar todo dano tomado em um turno, ou ganhar uma ação extra. Esse desejo será uma ação passiva do gênio. <p>
+
+           <b>Desvantagem:</b> Por ser ligado ao objeto mágico em questão, cada vez que o gênio levar um dano maior do que 10, o mestre rolará um dado 1d2 para determinar se ele terá que voltar para dentro desse objeto por um turno ou não. 
+
+           
+           
+           
+       </div>
+     </div> 
+ </div>
+
+
+
+
+
+<div class="tab">
+     <input type="radio" id="tab-5" name="tab-group-1">
+     <label for="tab-5">V</label>
+     
+     <div class="thcontent"><p>
+       <div class="thappcontent1"> <div class="thapprow4">Perícias</div><br>
+
+  Coloque as perícias escolhidas neste espaço.
+           
+             <br><br> <div class="thapprow4">Vantagens e desvantagens</div><br>
+           
+Vantagens e desvantagens neste espaço, se houver alguma.
+       
+       
+       </div>
+     </div> 
+ </div>
+
+
+<div class="tab">
+     <input type="radio" id="tab-6" name="tab-group-1">
+     <label for="tab-6">VI</label>
+     
+     <div class="thcontent"><p>
+       <div class="thappcontent"> <div class="thapprow4">Inventário</div><br>
+
+Escolha aqui uma arma dessa [URL=https://docs.google.com/document/d/1vyiODTWCFXS3R1-pd5FaE-ZeOIV2p7qp0PkPUZeZgnw/edit?usp=sharing]LISTA[/URL]
+           
+             <br><br> <div class="thapprow4">Experiência</div><br>
+           
+-- XP<br>
+100 F$
+
+<p>
+
+
+• <b>xx/xx/17:</b> -- XP iniciais. <br>
+       
+       
+       
+       </div>
+     </div> 
+ </div>
+
+
+  
+</div>
+</div>
+</div>
+<div style="font-size: 7px; text-transform: uppercase; font-family: georgia; letter-spacing: 1px; word-spacing: 3px;"><a href="http://shine.b1.jcink.com/index.php?showtopic=3546">THEONS</a> of SHINE</div>
+</center>
+[/dohtml]
