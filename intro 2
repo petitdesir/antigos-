@@ -1,0 +1,142 @@
+[QUOTE=Meera Bolton,Jul 21 2017, 11:35 AM][dohtml]<link href="https://fonts.googleapis.com/css?family=Hind:400,700|Poppins:700" rel="stylesheet">
+
+<div class="collar" style="background: url(http://i.imgur.com/MWbHbMk.png)">
+ <div class="border">
+ <div class="keep">
+   <h1>bleed me dry</h1>
+   <h2>brother beat me blue, sister bled me dry</h2>
+ </div>
+ 
+ <div class="one"></div>
+ <div class="two"></div>
+ <div class="three"></div>
+ <div class="four"></div>
+ 
+ <div class="text">
+   <div class="scroll"><span style="width:150px; text-transform:uppercase; text-align: center; line-height:50px;">[align=center][b]ALIADOS[/b][/align]</span><p>
+» [b]ASHARA BOLTON[/b]   por mais irritante que a loira seja - e por mais que consiga levar a perversidade das ideias de Meera ao extremo, ao irritá-la - esta é sangue do seu sangue, e sua única herdeira até ao momento. Assim, é forçada a conviver com a menor, confiando nela a um nível em que não desejaria confiar em ninguém. Tornou-se sua tutora, exercendo a função - praticamente impossível, diga-se de passagem - de a educar e preparar para assumir as funções de Senhora do Forte do Pavor em caso de necessidade. Não suporta os trejeitos infantis e pretensiosos da mais nova, todavia, deve prezar primeiro pelos interesses da Casa Bolton, antes mesmo dos seus próprios.<p>
+
+<p><span style="width:150px; text-transform:uppercase; text-align: center; line-height:50px;">[align=center][b]INIMIGOS[/b][/align]</span><p>
+<p>
+
+<p><span style="width:150px; text-transform:uppercase; text-align: center; line-height:50px;">[align=center][b]AMANTES[/b][/align]</span><p>
+<p>
+
+<p><span style="width:150px; text-transform:uppercase; text-align: center; line-height:50px;">[align=center][b]CONHECIDOS[/b][/align]</span><p>
+<p>
+
+   </div>
+ </div>
+</div></div>
+<a href="http://shine.jcink.net/index.php?showuser=8549" style="font: bold 8px/20px calibri; opacity: .5; text-align:center; display: block;">BY MITZI</a>
+
+<style>
+
+ .collar {
+   width: 400px; height: 400px; overflow: hidden;
+   margin: auto; background-size: cover!important;
+   -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; letter-spacing: 0;
+ }
+ 
+ .collar .border {
+   width: 350px; height: 350px;
+   border: solid 1px #000; margin: 25px;
+   overflow: hidden;
+ }
+ 
+ .collar .keep {
+   width: 350px; height: 350px; overflow: hidden;
+ }
+ 
+ .collar h1 {
+   font: bold 50px/40px poppins; text-transform: uppercase;
+   letter-spacing: -2px; text-align: center; color: #ddd;
+   margin: 125px 0 0 0; transition: .5s;
+ }
+ 
+ .collar h2 {
+   font: 7px/8px helvetica; text-transform: uppercase;
+   letter-spacing: 2px; text-align: center; color: #eee;
+   margin: 5; transition: .5s;
+ }
+
+ 
+ .collar .one {
+   width: 350px; height: 350px; overflow: hidden;
+   background: rgba(255,255,255,.1); transition: .7s .3s;
+   margin: -700px 0 0 -350px; 
+ }
+ 
+ .collar:hover .one {
+   background: rgba(255,255,255,.2);
+   margin: -350px 0 0 0; transition: .7s 0s;
+ }
+ 
+ .collar .two {
+   width: 350px; height: 350px; overflow: hidden;
+   background: rgba(255,255,255,.1); transition: .7s .3s;
+   margin: -350px 0 0 350px; 
+ }
+ 
+ .collar:hover .two {
+   background: rgba(255,255,255,.2);
+   margin: -350px 0 0 0; transition: .7s 0s;
+ }
+ 
+ .collar .three {
+   width: 350px; height: 350px; overflow: hidden;
+   background: rgba(255,255,255,.1); transition: .7s .3s;
+   margin: 350px 0 0 -350px; 
+ }
+ 
+ .collar:hover .three {
+   background: rgba(255,255,255,.2);
+   margin: -350px 0 0 0; transition: .7s 0s;
+ }
+ 
+ .collar .four {
+   width: 350px; height: 350px; overflow: hidden;
+   background: rgba(255,255,255,.1); transition: .7s .3s;
+   margin: -350px 0 0 350px; 
+ }
+ 
+ .collar:hover .four {
+   background: rgba(255,255,255,.2);
+   margin: -350px 0 0 0; transition: .7s 0s;
+ }
+ 
+ .collar:hover h1, .collar:hover h2 {
+   opacity: 0; filter: invert(50%);
+ }
+ 
+ .collar .text {
+   width: 300px; height: 300px;
+   margin: -350px 0 0 0; padding: 25px;
+   transition: .5s .0s;
+   opacity: 0;
+ }
+ 
+ .collar:hover .text {
+   opacity: 1;
+   transition: .8s .6s; margin: -350px 0 0 0;
+ }
+ 
+ .collar .scroll {
+   overflow: auto; height: 300px; 
+   color: #000; font: 11px hind;
+   text-align: justify; padding-right: 10px;
+ }
+ 
+ .collar .scroll::-webkit-scrollbar {
+   width: 1px!important; background: #eee!important;
+ }
+ 
+ .collar .scroll::-webkit-scrollbar-track {
+   width: 1px!important; background: #eee!important;
+ }
+ 
+ .collar .scroll::-webkit-scrollbar-thumb {
+   width: 1px!important; background: #000!important;
+ }
+ 
+</style>[/dohtml][/QUOTE]
