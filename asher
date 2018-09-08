@@ -1,0 +1,122 @@
+[DOHTML]
+<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Pirata+One" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display+SC:900' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Alex+Brush|Clicker+Script|Great+Vibes|Herr+Von+Muellerhoff|Petit+Formal+Script|Pinyon+Script|Rouge+Script" rel="stylesheet">
+
+<style type="text/css">
+  
+.petit999 { padding-top: 10px; font-family:  'Yanone Kaffeesatz'; font-size: 10px; text-transform: lowercase; color: ##863132;font-weight:bold;}
+  
+.variables asher { color: #863132; 
+                    font-weight:bold;
+}
+
+</style>
+  
+<center>
+<div class="variables">
+
+<center>
+
+<div style="width: 450px; 
+background:url(http://i.imgur.com/DfgWW3F.png);
+background-position: 50% 0%;
+background-attachment: fixed; 
+background-repeat: repeat;
+background-color: #FFF;
+padding-left: 0px;
+paddig-right: 10px;
+padding-bottom: 40px;
+padding-top: 40px;
+border-top: 5px solid #863132;">
+
+<br>
+<br> 
+
+<div style="width: 300px;
+padding: 40px;
+background-color: #FFF;
+text-align:justify; 
+color: #4F4F4F; 
+font-family: helvetica; 
+font-size: 10.5px; 
+line-height:150%; 
+text-transform: none;">
+
+<div style="width: 220px;
+padding: 40px;
+text-align: center; 
+color:#863132;
+            letter-spacing: 4px;
+text-transform: uppercase;
+font-family: 'Yanone Kaffeesatz';
+font-size: 10px; 
+line-height:110%; 
+border-top: 1px solid #863132;"> 
+  
+    <center><img src="http://i.imgur.com/qeJQhhL.png" width="130px" style="border-radius: 50%;  width: 130px; height: 130px; padding:10px; border:1px solid #eeeeee; margin-top: 20px; "></center>
+<br><br><br>
+  
+eu sou um pirata putão 
+  
+</div>
+
+
+<div style="background-color: #863132;
+height: 1px;
+width: 300px;"></div>
+<p>
+
+
+<div style="float:left; margin: 20px 5px 15px 5px; color: #863132; text-transform: uppercase; font-family:  'Yanone Kaffeesatz'; font-size: 60px;"><i>L</i></div>
+
+
+orem ipsum dolor sit amet, consectetur adipiscing elit. Integer id tellus sed elit condimentum semper. Duis a lacus vitae ligula convallis auctor nec ac sem. Aenean consectetur convallis augue ac varius. — <asher> Fusce vulputate blandit sapien, et auctor diam tincidunt id. </asher> — Mauris turpis turpis, interdum ut semper sit amet, scelerisque eu sapien. Nullam facilisis feugiat dui sed posuere. Maecenas lacinia tortor a sapien tempor eleifend. Mauris scelerisque mauris id enim dapibus non sagittis augue faucibus. Curabitur purus ligula, pulvinar eget gravida quis, commodo a lectus. Donec non diam non nibh condimentum aliquet. Nullam augue sapien, volutpat id porta ac, consectetur eu massa. Quisque quis imperdiet purus. 
+
+
+
+<p>
+<div style="background-color: #F1F1F1;
+height: 1px;
+width: 300px;"></div>
+</div>
+
+<div style="width: 300px;
+padding: 40px;
+background-color: #863132;
+text-align:justify; 
+color:#FFF; 
+font-family: 'Yanone Kaffeesatz';
+font-size: 10px; 
+text-transform: uppercase;
+line-height:110%;"> 
+
+
+Sou foda
+Na cama te esculacho
+Na sala ou no quarto
+No beco ou no carro
+
+Eu, eu sou sinistro
+Melhor que seu marido
+Esculacho seu amigo
+No escuro eu sou um perigo
+
+Avassalador
+Um cara interessante
+Esculacho o teu amante
+Até o teu ficante
+
+
+</div>
+
+</div>
+
+</div>
+
+</center>
+  
+<span class="petit999"><center>♥ petit désir!</center></span>
+
+[/DOHTML]
